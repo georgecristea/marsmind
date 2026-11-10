@@ -1,0 +1,422 @@
+{
+ "source": "app final state after gen 10 (final greenery placement included)",
+ "players": {
+  "Carl": {
+   "corp": "ThorGate",
+   "tr": 29,
+   "resources": {
+    "mc": 55,
+    "steel": 0,
+    "titanium": 0,
+    "plants": 3,
+    "energy": 3,
+    "heat": 6
+   },
+   "production": {
+    "mc": 23,
+    "steel": 0,
+    "titanium": 0,
+    "plants": 4,
+    "energy": 3,
+    "heat": 0
+   },
+   "vp": {
+    "total": 65,
+    "terraformRating": 29,
+    "milestones": 5,
+    "awards": 12,
+    "greenery": 5,
+    "city": 9,
+    "victoryPoints": 5,
+    "negativeVP": -3
+   },
+   "tableau": [
+    "ThorGate",
+    "Ice Asteroid",
+    "Power Infrastructure",
+    "Rad-Chem Factory",
+    "Power Supply Consortium",
+    "Bribed Committee",
+    "Immigrant City",
+    "Rad-Suits",
+    "Adapted Lichen",
+    "Dust Seals",
+    "Sabotage",
+    "Cloud Seeding",
+    "Development Center",
+    "Research Outpost",
+    "Great Dam",
+    "Soil Factory",
+    "Medical Lab",
+    "Martian Rails",
+    "Trans-Neptune Probe",
+    "Indentured Workers",
+    "Open City",
+    "Zeppelins"
+   ],
+   "citiesCount": 5
+  },
+  "Diana": {
+   "corp": "Teractor",
+   "tr": 45,
+   "resources": {
+    "mc": 61,
+    "steel": 4,
+    "titanium": 3,
+    "plants": 4,
+    "energy": 0,
+    "heat": 7
+   },
+   "production": {
+    "mc": 10,
+    "steel": 1,
+    "titanium": 3,
+    "plants": 2,
+    "energy": 0,
+    "heat": 3
+   },
+   "vp": {
+    "total": 67,
+    "terraformRating": 45,
+    "milestones": 10,
+    "awards": 2,
+    "greenery": 1,
+    "city": 2,
+    "victoryPoints": 7,
+    "negativeVP": -2
+   },
+   "tableau": [
+    "Teractor",
+    "Business Contacts",
+    "Nuclear Power",
+    "Industrial Microbes",
+    "Equatorial Magnetizer",
+    "Artificial Photosynthesis",
+    "Nuclear Zone",
+    "Domed Crater",
+    "Hired Raiders",
+    "Sponsors",
+    "Miranda Resort",
+    "Big Asteroid",
+    "Olympus Conference",
+    "Deimos Down",
+    "Business Network",
+    "Cartel",
+    "Deep Well Heating",
+    "Mining Rights",
+    "Underground Detonations",
+    "Nitrite Reducing Bacteria",
+    "Robotic Workforce",
+    "Investment Loan",
+    "Vesta Shipyard",
+    "Giant Ice Asteroid",
+    "Gene Repair",
+    "Import of Advanced GHG",
+    "Bushes",
+    "Release of Inert Gases",
+    "Phobos Space Haven"
+   ],
+   "citiesCount": 2
+  },
+  "Ben": {
+   "corp": "CrediCor",
+   "tr": 31,
+   "resources": {
+    "mc": 52,
+    "steel": 0,
+    "titanium": 1,
+    "plants": 4,
+    "energy": 4,
+    "heat": 6
+   },
+   "production": {
+    "mc": 18,
+    "steel": 0,
+    "titanium": 1,
+    "plants": 4,
+    "energy": 4,
+    "heat": 2
+   },
+   "vp": {
+    "total": 65,
+    "terraformRating": 31,
+    "milestones": 0,
+    "awards": 4,
+    "greenery": 4,
+    "city": 4,
+    "victoryPoints": 22,
+    "negativeVP": 0
+   },
+   "tableau": [
+    "CrediCor",
+    "Immigration Shuttles",
+    "Titanium Mine",
+    "Protected Valley",
+    "Designed Microorganisms",
+    "Space Mirrors",
+    "Commercial District",
+    "Colonizer Training Camp",
+    "Adaptation Technology",
+    "Water Import From Europa",
+    "Giant Space Mirror",
+    "Ganymede Colony",
+    "Media Archives",
+    "Noctis City",
+    "Toll Station",
+    "Terraforming Ganymede",
+    "Water Splitting Plant",
+    "Methane From Titan"
+   ],
+   "citiesCount": 2
+  },
+  "Anna": {
+   "corp": "Inventrix",
+   "tr": 27,
+   "resources": {
+    "mc": 41,
+    "steel": 0,
+    "titanium": 1,
+    "plants": 3,
+    "energy": 3,
+    "heat": 9
+   },
+   "production": {
+    "mc": 10,
+    "steel": 0,
+    "titanium": 1,
+    "plants": 2,
+    "energy": 3,
+    "heat": 4
+   },
+   "vp": {
+    "total": 52,
+    "terraformRating": 27,
+    "milestones": 0,
+    "awards": 5,
+    "greenery": 3,
+    "city": 0,
+    "victoryPoints": 17,
+    "negativeVP": 0
+   },
+   "tableau": [
+    "Inventrix",
+    "Earth Catapult",
+    "Wave Power",
+    "Natural Preserve",
+    "Solar Wind Power",
+    "Space Station",
+    "Lightning Harvest",
+    "Arctic Algae",
+    "Rover Construction",
+    "Moss",
+    "Comet",
+    "Technology Demonstration",
+    "Satellites",
+    "Fusion Power",
+    "Invention Contest",
+    "Steelworks",
+    "Tundra Farming",
+    "Breathing Filters",
+    "Fuel Factory",
+    "Earth Office",
+    "Predators",
+    "Imported Hydrogen",
+    "Advanced Alloys",
+    "Local Heat Trapping",
+    "Shuttles",
+    "AI Central",
+    "Mohole Area",
+    "Greenhouses"
+   ],
+   "citiesCount": 0
+  }
+ },
+ "globals": {
+  "temperature": 8,
+  "oxygen": 14,
+  "oceans": 9,
+  "generation": 10
+ },
+ "tiles": [
+  [
+   "01",
+   2,
+   "Ben"
+  ],
+  [
+   "02",
+   2,
+   "Diana"
+  ],
+  [
+   "03",
+   12,
+   "Diana"
+  ],
+  [
+   "04",
+   1,
+   null
+  ],
+  [
+   "06",
+   10,
+   "Anna"
+  ],
+  [
+   "13",
+   1,
+   null
+  ],
+  [
+   "14",
+   0,
+   "Anna"
+  ],
+  [
+   "21",
+   11,
+   "Anna"
+  ],
+  [
+   "22",
+   0,
+   "Ben"
+  ],
+  [
+   "23",
+   0,
+   "Ben"
+  ],
+  [
+   "25",
+   2,
+   "Carl"
+  ],
+  [
+   "26",
+   0,
+   "Carl"
+  ],
+  [
+   "27",
+   0,
+   "Carl"
+  ],
+  [
+   "28",
+   1,
+   null
+  ],
+  [
+   "29",
+   0,
+   "Anna"
+  ],
+  [
+   "30",
+   0,
+   "Anna"
+  ],
+  [
+   "31",
+   2,
+   "Ben"
+  ],
+  [
+   "32",
+   0,
+   "Ben"
+  ],
+  [
+   "33",
+   1,
+   null
+  ],
+  [
+   "34",
+   1,
+   null
+  ],
+  [
+   "35",
+   2,
+   "Carl"
+  ],
+  [
+   "36",
+   0,
+   "Carl"
+  ],
+  [
+   "37",
+   2,
+   "Carl"
+  ],
+  [
+   "38",
+   0,
+   "Diana"
+  ],
+  [
+   "39",
+   2,
+   "Diana"
+  ],
+  [
+   "40",
+   4,
+   "Ben"
+  ],
+  [
+   "41",
+   0,
+   "Ben"
+  ],
+  [
+   "43",
+   1,
+   null
+  ],
+  [
+   "44",
+   1,
+   null
+  ],
+  [
+   "45",
+   1,
+   null
+  ],
+  [
+   "53",
+   2,
+   "Carl"
+  ],
+  [
+   "54",
+   0,
+   "Carl"
+  ],
+  [
+   "58",
+   9,
+   "Diana"
+  ],
+  [
+   "59",
+   0,
+   "Carl"
+  ],
+  [
+   "60",
+   2,
+   "Carl"
+  ],
+  [
+   "63",
+   1,
+   null
+  ]
+ ]
+}

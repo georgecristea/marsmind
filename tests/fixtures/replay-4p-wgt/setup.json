@@ -1,0 +1,48 @@
+{
+  "playerCount": 4,
+  "players": [
+    {
+      "name": "Diana",
+      "color": "green",
+      "isMe": true,
+      "aliases": []
+    },
+    {
+      "name": "Anna",
+      "color": "red",
+      "isMe": false,
+      "aliases": []
+    },
+    {
+      "name": "Carl",
+      "color": "orange",
+      "isMe": false,
+      "aliases": []
+    },
+    {
+      "name": "Ben",
+      "color": "yellow",
+      "isMe": false,
+      "aliases": []
+    }
+  ],
+  "expansions": [
+    "base",
+    "corporateEra",
+    "wgt"
+  ],
+  "map": "tharsis",
+  "draft": false,
+  "houseRules": [],
+  "seatingOrder": [
+    "Anna",
+    "Carl",
+    "Diana",
+    "Ben"
+  ],
+  "firstPlayerGen1": "Anna",
+  "gameMode": "physical",
+  "startedAt": "<date>",
+  "endedAt": "<date>",
+  "result": "Diana won 67-65-65-52 (Carl 2nd, Ben 3rd, Anna 4th). 4-player online game, base + Corporate Era, World Government Terraforming on, 10 generations, all global parameters maxed."
+}

@@ -1,0 +1,1290 @@
+[
+ {
+  "actionsTakenThisRound": 0,
+  "actionsTakenThisGame": 86,
+  "actionsThisGeneration": [],
+  "availableBlueCardActionCount": 0,
+  "cardCost": 3,
+  "cardDiscount": 0,
+  "cardsInHandNbr": 6,
+  "citiesCount": 1,
+  "coloniesCount": 0,
+  "color": "green",
+  "energy": 2,
+  "energyProduction": 2,
+  "fleetSize": 1,
+  "heat": 6,
+  "heatProduction": 2,
+  "id": "p97497ee39603",
+  "influence": 0,
+  "isActive": false,
+  "megacredits": 32,
+  "megacreditProduction": 1,
+  "name": "Ana",
+  "needsToResearch": true,
+  "noTagsCount": 2,
+  "plants": 24,
+  "plantProduction": 1,
+  "protectedResources": {
+   "megacredits": "off",
+   "steel": "off",
+   "titanium": "off",
+   "plants": "on",
+   "energy": "off",
+   "heat": "off"
+  },
+  "protectedProduction": {
+   "megacredits": "off",
+   "steel": "off",
+   "titanium": "off",
+   "plants": "off",
+   "energy": "off",
+   "heat": "off"
+  },
+  "tableau": [
+   {
+    "resources": 0,
+    "name": "Ecoline",
+    "calculatedCost": 0
+   },
+   {
+    "resources": 0,
+    "name": "Research",
+    "calculatedCost": 11
+   },
+   {
+    "resources": 0,
+    "name": "Deep Well Heating",
+    "calculatedCost": 13
+   },
+   {
+    "resources": 0,
+    "name": "Arctic Algae",
+    "calculatedCost": 12
+   },
+   {
+    "resources": 0,
+    "name": "Plantation",
+    "calculatedCost": 15
+   },
+   {
+    "resources": 0,
+    "name": "Micro-Mills",
+    "calculatedCost": 3
+   },
+   {
+    "resources": 0,
+    "name": "Artificial Lake",
+    "calculatedCost": 15
+   },
+   {
+    "resources": 0,
+    "name": "Greenhouses",
+    "calculatedCost": 6
+   },
+   {
+    "resources": 0,
+    "name": "Protected Habitats",
+    "calculatedCost": 5
+   }
+  ],
+  "selfReplicatingRobotsCards": [],
+  "steel": 4,
+  "steelProduction": 0,
+  "steelValue": 2,
+  "tags": {
+   "building": 3,
+   "space": 0,
+   "science": 2,
+   "power": 1,
+   "earth": 0,
+   "jovian": 0,
+   "venus": 0,
+   "moon": 0,
+   "mars": 0,
+   "plant": 4,
+   "microbe": 0,
+   "animal": 0,
+   "crime": 0,
+   "city": 0,
+   "wild": 0,
+   "clone": 0,
+   "event": 0
+  },
+  "terraformRating": 30,
+  "timer": {
+   "sumElapsed": 6749170,
+   "startedAt": 1787693769537,
+   "running": false,
+   "afterFirstAction": true,
+   "lastStoppedAt": 1787693784968
+  },
+  "titanium": 1,
+  "titaniumProduction": 0,
+  "titaniumValue": 3,
+  "tradesThisGeneration": 0,
+  "underworldData": {
+   "corruption": 0,
+   "tokens": []
+  },
+  "victoryPointsBreakdown": {
+   "terraformRating": 30,
+   "milestones": 0,
+   "awards": 7,
+   "greenery": 12,
+   "city": 3,
+   "escapeVelocity": 0,
+   "moonHabitats": 0,
+   "moonMines": 0,
+   "moonRoads": 0,
+   "planetaryTracks": 0,
+   "victoryPoints": 2,
+   "total": 54,
+   "detailsCards": [
+    {
+     "cardName": "Research",
+     "victoryPoint": 1
+    },
+    {
+     "cardName": "Artificial Lake",
+     "victoryPoint": 1
+    }
+   ],
+   "detailsMilestones": [],
+   "detailsAwards": [
+    {
+     "message": "${0} place for ${1} award (funded by ${2})",
+     "victoryPoint": 5,
+     "messageArgs": [
+      "1st",
+      "Landlord",
+      "Ben"
+     ]
+    },
+    {
+     "message": "${0} place for ${1} award (funded by ${2})",
+     "victoryPoint": 2,
+     "messageArgs": [
+      "2nd",
+      "Scientist",
+      "Zed"
+     ]
+    }
+   ],
+   "detailsPlanetaryTracks": [],
+   "negativeVP": 0
+  },
+  "victoryPointsByGeneration": [
+   22,
+   22,
+   26,
+   26,
+   26,
+   26,
+   29,
+   31,
+   42,
+   44,
+   47,
+   51,
+   51,
+   51,
+   52,
+   52,
+   54
+  ],
+  "globalParameterSteps": {
+   "oceans": 3,
+   "oxygen": 3,
+   "temperature": 4,
+   "venus": 0,
+   "moon-habitat": 0,
+   "moon-mining": 0,
+   "moon-logistic": 0
+  }
+ },
+ {
+  "actionsTakenThisRound": 0,
+  "actionsTakenThisGame": 83,
+  "actionsThisGeneration": [],
+  "availableBlueCardActionCount": 1,
+  "cardCost": 3,
+  "cardDiscount": 0,
+  "cardsInHandNbr": 4,
+  "citiesCount": 4,
+  "coloniesCount": 0,
+  "color": "yellow",
+  "energy": 3,
+  "energyProduction": 3,
+  "fleetSize": 1,
+  "heat": 20,
+  "heatProduction": 3,
+  "id": "p61bb51a72fcc",
+  "influence": 0,
+  "isActive": false,
+  "megacredits": 240,
+  "megacreditProduction": 10,
+  "name": "Ben",
+  "needsToResearch": true,
+  "noTagsCount": 1,
+  "plants": 1,
+  "plantProduction": 0,
+  "protectedResources": {
+   "megacredits": "off",
+   "steel": "off",
+   "titanium": "off",
+   "plants": "off",
+   "energy": "off",
+   "heat": "off"
+  },
+  "protectedProduction": {
+   "megacredits": "off",
+   "steel": "off",
+   "titanium": "off",
+   "plants": "off",
+   "energy": "off",
+   "heat": "off"
+  },
+  "tableau": [
+   {
+    "resources": 0,
+    "name": "CrediCor",
+    "calculatedCost": 0
+   },
+   {
+    "resources": 0,
+    "name": "Callisto Penal Mines",
+    "calculatedCost": 24
+   },
+   {
+    "resources": 0,
+    "name": "Sponsors",
+    "calculatedCost": 6
+   },
+   {
+    "resources": 0,
+    "name": "Phobos Space Haven",
+    "calculatedCost": 25
+   },
+   {
+    "resources": 0,
+    "name": "Natural Preserve",
+    "calculatedCost": 9
+   },
+   {
+    "resources": 0,
+    "name": "Import of Advanced GHG",
+    "calculatedCost": 9
+   },
+   {
+    "resources": 0,
+    "name": "Asteroid",
+    "calculatedCost": 14
+   },
+   {
+    "resources": 0,
+    "name": "Lagrange Observatory",
+    "calculatedCost": 9
+   },
+   {
+    "resources": 0,
+    "name": "Titanium Mine",
+    "calculatedCost": 7
+   },
+   {
+    "resources": 1,
+    "name": "Ants",
+    "calculatedCost": 9
+   },
+   {
+    "resources": 0,
+    "name": "Energy Saving",
+    "calculatedCost": 15
+   },
+   {
+    "resources": 0,
+    "name": "Fuel Factory",
+    "calculatedCost": 6
+   }
+  ],
+  "selfReplicatingRobotsCards": [],
+  "steel": 2,
+  "steelProduction": 0,
+  "steelValue": 2,
+  "tags": {
+   "building": 3,
+   "space": 3,
+   "science": 2,
+   "power": 1,
+   "earth": 1,
+   "jovian": 1,
+   "venus": 0,
+   "moon": 0,
+   "mars": 0,
+   "plant": 0,
+   "microbe": 1,
+   "animal": 0,
+   "crime": 0,
+   "city": 1,
+   "wild": 0,
+   "clone": 0,
+   "event": 2
+  },
+  "terraformRating": 31,
+  "timer": {
+   "sumElapsed": 5062334,
+   "startedAt": 1787693315418,
+   "running": false,
+   "afterFirstAction": true,
+   "lastStoppedAt": 1787693784968
+  },
+  "titanium": 45,
+  "titaniumProduction": 3,
+  "titaniumValue": 3,
+  "tradesThisGeneration": 0,
+  "underworldData": {
+   "corruption": 0,
+   "tokens": []
+  },
+  "victoryPointsBreakdown": {
+   "terraformRating": 31,
+   "milestones": 0,
+   "awards": 6,
+   "greenery": 6,
+   "city": 10,
+   "escapeVelocity": 0,
+   "moonHabitats": 0,
+   "moonMines": 0,
+   "moonRoads": 0,
+   "planetaryTracks": 0,
+   "victoryPoints": 7,
+   "total": 60,
+   "detailsCards": [
+    {
+     "cardName": "Callisto Penal Mines",
+     "victoryPoint": 2
+    },
+    {
+     "cardName": "Phobos Space Haven",
+     "victoryPoint": 3
+    },
+    {
+     "cardName": "Natural Preserve",
+     "victoryPoint": 1
+    },
+    {
+     "cardName": "Lagrange Observatory",
+     "victoryPoint": 1
+    },
+    {
+     "cardName": "Ants",
+     "victoryPoint": 0
+    }
+   ],
+   "detailsMilestones": [],
+   "detailsAwards": [
+    {
+     "message": "${0} place for ${1} award (funded by ${2})",
+     "victoryPoint": 2,
+     "messageArgs": [
+      "2nd",
+      "Miner",
+      "Diana"
+     ]
+    },
+    {
+     "message": "${0} place for ${1} award (funded by ${2})",
+     "victoryPoint": 2,
+     "messageArgs": [
+      "2nd",
+      "Landlord",
+      "Ben"
+     ]
+    },
+    {
+     "message": "${0} place for ${1} award (funded by ${2})",
+     "victoryPoint": 2,
+     "messageArgs": [
+      "2nd",
+      "Scientist",
+      "Zed"
+     ]
+    }
+   ],
+   "detailsPlanetaryTracks": [],
+   "negativeVP": 0
+  },
+  "victoryPointsByGeneration": [
+   22,
+   22,
+   27,
+   28,
+   30,
+   30,
+   33,
+   45,
+   44,
+   45,
+   51,
+   57,
+   58,
+   59,
+   60,
+   60,
+   60
+  ],
+  "globalParameterSteps": {
+   "oceans": 0,
+   "oxygen": 2,
+   "temperature": 9,
+   "venus": 0,
+   "moon-habitat": 0,
+   "moon-mining": 0,
+   "moon-logistic": 0
+  }
+ },
+ {
+  "actionsTakenThisRound": 0,
+  "actionsTakenThisGame": 76,
+  "actionsThisGeneration": [],
+  "availableBlueCardActionCount": 2,
+  "cardCost": 3,
+  "cardDiscount": 0,
+  "cardsInHandNbr": 7,
+  "citiesCount": 3,
+  "coloniesCount": 0,
+  "color": "blue",
+  "energy": 2,
+  "energyProduction": 2,
+  "fleetSize": 1,
+  "heat": 7,
+  "heatProduction": 2,
+  "id": "p3df63e970572",
+  "influence": 0,
+  "isActive": false,
+  "megacredits": 105,
+  "megacreditProduction": 11,
+  "name": "Carl",
+  "needsToResearch": true,
+  "noTagsCount": 1,
+  "plants": 4,
+  "plantProduction": 1,
+  "protectedResources": {
+   "megacredits": "off",
+   "steel": "off",
+   "titanium": "off",
+   "plants": "off",
+   "energy": "off",
+   "heat": "off"
+  },
+  "protectedProduction": {
+   "megacredits": "off",
+   "steel": "off",
+   "titanium": "off",
+   "plants": "off",
+   "energy": "off",
+   "heat": "off"
+  },
+  "tableau": [
+   {
+    "resources": 0,
+    "name": "ThorGate",
+    "calculatedCost": 0,
+    "discount": [
+     {
+      "tag": "power",
+      "amount": 3
+     }
+    ]
+   },
+   {
+    "resources": 0,
+    "name": "Adaptation Technology",
+    "calculatedCost": 12
+   },
+   {
+    "resources": 0,
+    "name": "Energy Tapping",
+    "calculatedCost": 3
+   },
+   {
+    "resources": 0,
+    "name": "Rover Construction",
+    "calculatedCost": 8
+   },
+   {
+    "resources": 0,
+    "name": "Domed Crater",
+    "calculatedCost": 24
+   },
+   {
+    "resources": 0,
+    "name": "Indentured Workers",
+    "calculatedCost": 0
+   },
+   {
+    "resources": 0,
+    "name": "Industrial Center",
+    "calculatedCost": 4
+   },
+   {
+    "resources": 0,
+    "name": "Rad-Suits",
+    "calculatedCost": 6
+   },
+   {
+    "resources": 0,
+    "name": "Noctis Farming",
+    "calculatedCost": 10
+   },
+   {
+    "resources": 0,
+    "name": "Space Elevator",
+    "calculatedCost": 27
+   },
+   {
+    "resources": 0,
+    "name": "Methane From Titan",
+    "calculatedCost": 28
+   },
+   {
+    "resources": 0,
+    "name": "Food Factory",
+    "calculatedCost": 12
+   }
+  ],
+  "selfReplicatingRobotsCards": [],
+  "steel": 4,
+  "steelProduction": 0,
+  "steelValue": 2,
+  "tags": {
+   "building": 6,
+   "space": 2,
+   "science": 1,
+   "power": 2,
+   "earth": 0,
+   "jovian": 1,
+   "venus": 0,
+   "moon": 0,
+   "mars": 0,
+   "plant": 1,
+   "microbe": 0,
+   "animal": 0,
+   "crime": 0,
+   "city": 1,
+   "wild": 0,
+   "clone": 0,
+   "event": 1
+  },
+  "terraformRating": 23,
+  "timer": {
+   "sumElapsed": 3225414,
+   "startedAt": 1787693544982,
+   "running": false,
+   "afterFirstAction": true,
+   "lastStoppedAt": 1787693784968
+  },
+  "titanium": 4,
+  "titaniumProduction": 1,
+  "titaniumValue": 3,
+  "tradesThisGeneration": 0,
+  "underworldData": {
+   "corruption": 0,
+   "tokens": []
+  },
+  "victoryPointsBreakdown": {
+   "terraformRating": 23,
+   "milestones": 5,
+   "awards": 2,
+   "greenery": 7,
+   "city": 7,
+   "escapeVelocity": 0,
+   "moonHabitats": 0,
+   "moonMines": 0,
+   "moonRoads": 0,
+   "planetaryTracks": 0,
+   "victoryPoints": 8,
+   "total": 52,
+   "detailsCards": [
+    {
+     "cardName": "Adaptation Technology",
+     "victoryPoint": 1
+    },
+    {
+     "cardName": "Energy Tapping",
+     "victoryPoint": -1
+    },
+    {
+     "cardName": "Rover Construction",
+     "victoryPoint": 1
+    },
+    {
+     "cardName": "Domed Crater",
+     "victoryPoint": 1
+    },
+    {
+     "cardName": "Indentured Workers",
+     "victoryPoint": -1
+    },
+    {
+     "cardName": "Rad-Suits",
+     "victoryPoint": 1
+    },
+    {
+     "cardName": "Noctis Farming",
+     "victoryPoint": 1
+    },
+    {
+     "cardName": "Space Elevator",
+     "victoryPoint": 2
+    },
+    {
+     "cardName": "Methane From Titan",
+     "victoryPoint": 2
+    },
+    {
+     "cardName": "Food Factory",
+     "victoryPoint": 1
+    }
+   ],
+   "detailsMilestones": [
+    {
+     "message": "Claimed ${0} milestone",
+     "victoryPoint": 5,
+     "messageArgs": [
+      "Mayor"
+     ]
+    }
+   ],
+   "detailsAwards": [
+    {
+     "message": "${0} place for ${1} award (funded by ${2})",
+     "victoryPoint": 2,
+     "messageArgs": [
+      "2nd",
+      "Landlord",
+      "Ben"
+     ]
+    }
+   ],
+   "detailsPlanetaryTracks": [],
+   "negativeVP": -2
+  },
+  "victoryPointsByGeneration": [
+   20,
+   22,
+   23,
+   24,
+   28,
+   28,
+   36,
+   42,
+   42,
+   45,
+   45,
+   46,
+   46,
+   48,
+   49,
+   51,
+   52
+  ],
+  "globalParameterSteps": {
+   "oceans": 1,
+   "oxygen": 1,
+   "temperature": 1,
+   "venus": 0,
+   "moon-habitat": 0,
+   "moon-mining": 0,
+   "moon-logistic": 0
+  }
+ },
+ {
+  "actionsTakenThisRound": 0,
+  "actionsTakenThisGame": 72,
+  "actionsThisGeneration": [],
+  "availableBlueCardActionCount": 0,
+  "cardCost": 3,
+  "cardDiscount": 0,
+  "cardsInHandNbr": 6,
+  "citiesCount": 3,
+  "coloniesCount": 0,
+  "color": "black",
+  "energy": 4,
+  "energyProduction": 4,
+  "fleetSize": 1,
+  "heat": 6,
+  "heatProduction": 0,
+  "id": "p1b12757daf14",
+  "influence": 0,
+  "isActive": false,
+  "megacredits": 40,
+  "megacreditProduction": 6,
+  "name": "Diana",
+  "needsToResearch": true,
+  "noTagsCount": 0,
+  "plants": 6,
+  "plantProduction": 0,
+  "protectedResources": {
+   "megacredits": "off",
+   "steel": "off",
+   "titanium": "off",
+   "plants": "off",
+   "energy": "off",
+   "heat": "off"
+  },
+  "protectedProduction": {
+   "megacredits": "off",
+   "steel": "off",
+   "titanium": "off",
+   "plants": "off",
+   "energy": "off",
+   "heat": "off"
+  },
+  "tableau": [
+   {
+    "resources": 0,
+    "name": "Mining Guild",
+    "calculatedCost": 0
+   },
+   {
+    "resources": 0,
+    "name": "Mine",
+    "calculatedCost": 4
+   },
+   {
+    "resources": 0,
+    "name": "Special Design",
+    "calculatedCost": 4
+   },
+   {
+    "resources": 0,
+    "name": "Media Archives",
+    "calculatedCost": 8
+   },
+   {
+    "resources": 0,
+    "name": "Cartel",
+    "calculatedCost": 8
+   },
+   {
+    "resources": 0,
+    "name": "Industrial Microbes",
+    "calculatedCost": 12
+   },
+   {
+    "resources": 0,
+    "name": "Building Industries",
+    "calculatedCost": 6
+   },
+   {
+    "resources": 0,
+    "name": "Investment Loan",
+    "calculatedCost": 3
+   },
+   {
+    "resources": 0,
+    "name": "Breathing Filters",
+    "calculatedCost": 11
+   },
+   {
+    "resources": 0,
+    "name": "Noctis City",
+    "calculatedCost": 18
+   }
+  ],
+  "selfReplicatingRobotsCards": [],
+  "steel": 94,
+  "steelProduction": 6,
+  "steelValue": 2,
+  "tags": {
+   "building": 6,
+   "space": 0,
+   "science": 1,
+   "power": 0,
+   "earth": 2,
+   "jovian": 0,
+   "venus": 0,
+   "moon": 0,
+   "mars": 0,
+   "plant": 0,
+   "microbe": 1,
+   "animal": 0,
+   "crime": 0,
+   "city": 1,
+   "wild": 0,
+   "clone": 0,
+   "event": 2
+  },
+  "terraformRating": 23,
+  "timer": {
+   "sumElapsed": 4427227,
+   "startedAt": 1787693471757,
+   "running": false,
+   "afterFirstAction": true,
+   "lastStoppedAt": 1787693784968
+  },
+  "titanium": 0,
+  "titaniumProduction": 0,
+  "titaniumValue": 3,
+  "tradesThisGeneration": 0,
+  "underworldData": {
+   "corruption": 0,
+   "tokens": []
+  },
+  "victoryPointsBreakdown": {
+   "terraformRating": 23,
+   "milestones": 0,
+   "awards": 5,
+   "greenery": 4,
+   "city": 13,
+   "escapeVelocity": 0,
+   "moonHabitats": 0,
+   "moonMines": 0,
+   "moonRoads": 0,
+   "planetaryTracks": 0,
+   "victoryPoints": 2,
+   "total": 47,
+   "detailsCards": [
+    {
+     "cardName": "Breathing Filters",
+     "victoryPoint": 2
+    }
+   ],
+   "detailsMilestones": [],
+   "detailsAwards": [
+    {
+     "message": "${0} place for ${1} award (funded by ${2})",
+     "victoryPoint": 5,
+     "messageArgs": [
+      "1st",
+      "Miner",
+      "Diana"
+     ]
+    }
+   ],
+   "detailsPlanetaryTracks": [],
+   "negativeVP": 0
+  },
+  "victoryPointsByGeneration": [
+   20,
+   20,
+   20,
+   22,
+   27,
+   29,
+   31,
+   32,
+   34,
+   38,
+   38,
+   39,
+   39,
+   41,
+   41,
+   41,
+   47
+  ],
+  "globalParameterSteps": {
+   "oceans": 0,
+   "oxygen": 3,
+   "temperature": 0,
+   "venus": 0,
+   "moon-habitat": 0,
+   "moon-mining": 0,
+   "moon-logistic": 0
+  }
+ },
+ {
+  "actionsTakenThisRound": 0,
+  "actionsTakenThisGame": 161,
+  "actionsThisGeneration": [],
+  "availableBlueCardActionCount": 6,
+  "cardCost": 3,
+  "cardDiscount": 0,
+  "cardsInHandNbr": 7,
+  "citiesCount": 1,
+  "coloniesCount": 0,
+  "color": "red",
+  "energy": 1,
+  "energyProduction": 1,
+  "fleetSize": 1,
+  "heat": 0,
+  "heatProduction": 0,
+  "id": "pb1858422e671",
+  "influence": 0,
+  "isActive": true,
+  "megacredits": 46,
+  "megacreditProduction": 5,
+  "name": "Zed",
+  "needsToResearch": true,
+  "noTagsCount": 1,
+  "plants": 97,
+  "plantProduction": 10,
+  "protectedResources": {
+   "megacredits": "off",
+   "steel": "off",
+   "titanium": "off",
+   "plants": "off",
+   "energy": "off",
+   "heat": "off"
+  },
+  "protectedProduction": {
+   "megacredits": "off",
+   "steel": "off",
+   "titanium": "off",
+   "plants": "off",
+   "energy": "off",
+   "heat": "off"
+  },
+  "tableau": [
+   {
+    "resources": 0,
+    "name": "Inventrix",
+    "calculatedCost": 0
+   },
+   {
+    "resources": 0,
+    "name": "Protected Valley",
+    "calculatedCost": 23
+   },
+   {
+    "resources": 0,
+    "name": "Invention Contest",
+    "calculatedCost": 2
+   },
+   {
+    "resources": 0,
+    "name": "Dust Seals",
+    "calculatedCost": 2
+   },
+   {
+    "resources": 1,
+    "name": "Search For Life",
+    "calculatedCost": 3
+   },
+   {
+    "resources": 0,
+    "name": "Adapted Lichen",
+    "calculatedCost": 9
+   },
+   {
+    "resources": 0,
+    "name": "Imported Hydrogen",
+    "calculatedCost": 16
+   },
+   {
+    "resources": 0,
+    "name": "Sabotage",
+    "calculatedCost": 1
+   },
+   {
+    "resources": 0,
+    "name": "Inventors' Guild",
+    "calculatedCost": 9
+   },
+   {
+    "resources": 0,
+    "name": "Virus",
+    "calculatedCost": 1
+   },
+   {
+    "resources": 0,
+    "name": "Viral Enhancers",
+    "calculatedCost": 9
+   },
+   {
+    "resources": 0,
+    "name": "Worms",
+    "calculatedCost": 8
+   },
+   {
+    "resources": 0,
+    "name": "Designed Microorganisms",
+    "calculatedCost": 16
+   },
+   {
+    "resources": 0,
+    "name": "Insects",
+    "calculatedCost": 9
+   },
+   {
+    "resources": 14,
+    "name": "Tardigrades",
+    "calculatedCost": 4
+   },
+   {
+    "resources": 1,
+    "name": "Olympus Conference",
+    "calculatedCost": 10
+   },
+   {
+    "resources": 0,
+    "name": "Big Asteroid",
+    "calculatedCost": 27
+   },
+   {
+    "resources": 0,
+    "name": "Lichen",
+    "calculatedCost": 7
+   },
+   {
+    "resources": 8,
+    "name": "Ecological Zone",
+    "calculatedCost": 12
+   },
+   {
+    "resources": 0,
+    "name": "Technology Demonstration",
+    "calculatedCost": 5
+   },
+   {
+    "resources": 0,
+    "name": "Nitrogen-Rich Asteroid",
+    "calculatedCost": 31
+   },
+   {
+    "resources": 3,
+    "name": "Herbivores",
+    "calculatedCost": 12
+   },
+   {
+    "resources": 0,
+    "name": "Tundra Farming",
+    "calculatedCost": 16
+   },
+   {
+    "resources": 0,
+    "name": "Hired Raiders",
+    "calculatedCost": 1
+   },
+   {
+    "resources": 0,
+    "name": "Giant Ice Asteroid",
+    "calculatedCost": 36
+   },
+   {
+    "resources": 0,
+    "name": "Imported Nitrogen",
+    "calculatedCost": 23
+   },
+   {
+    "resources": 3,
+    "name": "Birds",
+    "calculatedCost": 10
+   },
+   {
+    "resources": 4,
+    "name": "Predators",
+    "calculatedCost": 14
+   },
+   {
+    "resources": 0,
+    "name": "Miranda Resort",
+    "calculatedCost": 12
+   },
+   {
+    "resources": 0,
+    "name": "Trans-Neptune Probe",
+    "calculatedCost": 6
+   },
+   {
+    "resources": 0,
+    "name": "Terraforming Ganymede",
+    "calculatedCost": 33
+   },
+   {
+    "resources": 0,
+    "name": "Windmills",
+    "calculatedCost": 6
+   },
+   {
+    "resources": 0,
+    "name": "Symbiotic Fungus",
+    "calculatedCost": 4
+   },
+   {
+    "resources": 0,
+    "name": "Ganymede Colony",
+    "calculatedCost": 20
+   },
+   {
+    "resources": 0,
+    "name": "Mangrove",
+    "calculatedCost": 12
+   }
+  ],
+  "selfReplicatingRobotsCards": [],
+  "steel": 0,
+  "steelProduction": 0,
+  "steelValue": 2,
+  "tags": {
+   "building": 3,
+   "space": 4,
+   "science": 7,
+   "power": 1,
+   "earth": 1,
+   "jovian": 3,
+   "venus": 0,
+   "moon": 0,
+   "mars": 0,
+   "plant": 6,
+   "microbe": 6,
+   "animal": 4,
+   "crime": 0,
+   "city": 1,
+   "wild": 0,
+   "clone": 0,
+   "event": 10
+  },
+  "terraformRating": 40,
+  "timer": {
+   "sumElapsed": 4162121,
+   "startedAt": 1787693775677,
+   "running": false,
+   "afterFirstAction": true,
+   "lastStoppedAt": 1787693784968
+  },
+  "titanium": 4,
+  "titaniumProduction": 0,
+  "titaniumValue": 3,
+  "tradesThisGeneration": 0,
+  "underworldData": {
+   "corruption": 0,
+   "tokens": []
+  },
+  "victoryPointsBreakdown": {
+   "terraformRating": 40,
+   "milestones": 10,
+   "awards": 5,
+   "greenery": 8,
+   "city": 0,
+   "escapeVelocity": 0,
+   "moonHabitats": 0,
+   "moonMines": 0,
+   "moonRoads": 0,
+   "planetaryTracks": 0,
+   "victoryPoints": 31,
+   "total": 94,
+   "detailsCards": [
+    {
+     "cardName": "Dust Seals",
+     "victoryPoint": 1
+    },
+    {
+     "cardName": "Search For Life",
+     "victoryPoint": 3
+    },
+    {
+     "cardName": "Tardigrades",
+     "victoryPoint": 3
+    },
+    {
+     "cardName": "Olympus Conference",
+     "victoryPoint": 1
+    },
+    {
+     "cardName": "Ecological Zone",
+     "victoryPoint": 4
+    },
+    {
+     "cardName": "Herbivores",
+     "victoryPoint": 1
+    },
+    {
+     "cardName": "Tundra Farming",
+     "victoryPoint": 2
+    },
+    {
+     "cardName": "Birds",
+     "victoryPoint": 3
+    },
+    {
+     "cardName": "Predators",
+     "victoryPoint": 4
+    },
+    {
+     "cardName": "Miranda Resort",
+     "victoryPoint": 1
+    },
+    {
+     "cardName": "Trans-Neptune Probe",
+     "victoryPoint": 1
+    },
+    {
+     "cardName": "Terraforming Ganymede",
+     "victoryPoint": 2
+    },
+    {
+     "cardName": "Windmills",
+     "victoryPoint": 1
+    },
+    {
+     "cardName": "Ganymede Colony",
+     "victoryPoint": 3
+    },
+    {
+     "cardName": "Mangrove",
+     "victoryPoint": 1
+    }
+   ],
+   "detailsMilestones": [
+    {
+     "message": "Claimed ${0} milestone",
+     "victoryPoint": 5,
+     "messageArgs": [
+      "Gardener"
+     ]
+    },
+    {
+     "message": "Claimed ${0} milestone",
+     "victoryPoint": 5,
+     "messageArgs": [
+      "Terraformer"
+     ]
+    }
+   ],
+   "detailsAwards": [
+    {
+     "message": "${0} place for ${1} award (funded by ${2})",
+     "victoryPoint": 5,
+     "messageArgs": [
+      "1st",
+      "Scientist",
+      "Zed"
+     ]
+    }
+   ],
+   "detailsPlanetaryTracks": [],
+   "negativeVP": 0
+  },
+  "victoryPointsByGeneration": [
+   22,
+   23,
+   26,
+   27,
+   29,
+   34,
+   41,
+   46,
+   47,
+   54,
+   57,
+   60,
+   65,
+   73,
+   79,
+   86,
+   94
+  ],
+  "globalParameterSteps": {
+   "oceans": 5,
+   "oxygen": 5,
+   "temperature": 5,
+   "venus": 0,
+   "moon-habitat": 0,
+   "moon-mining": 0,
+   "moon-logistic": 0
+  }
+ }
+]

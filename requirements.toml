@@ -1,0 +1,9 @@
+# Codex policy for Terraforming Mars app-practice games in this repository.
+# Opponent seats must talk to the local vendored app server on localhost:8080,
+# but they do not need open-ended outbound internet access.
+allowed_sandbox_modes = ["read-only", "workspace-write"]
+
+[experimental_network]
+enabled = true
+allow_local_binding = true
+allowed_domains = ["localhost", "127.0.0.1", "::1"]

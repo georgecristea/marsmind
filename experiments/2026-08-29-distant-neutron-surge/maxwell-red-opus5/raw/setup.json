@@ -1,0 +1,41 @@
+{
+  "playerCount": 2,
+  "players": [
+    {
+      "name": "Maxwell",
+      "color": "red",
+      "isMe": true,
+      "aliases": [],
+      "playerId": "REDACTED-PLAYER-ID-MAXWELL"
+    },
+    {
+      "name": "Mortimer",
+      "color": "blue",
+      "isMe": false,
+      "aliases": []
+    }
+  ],
+  "expansions": [
+    "base",
+    "corporateEra"
+  ],
+  "map": "tharsis",
+  "draft": false,
+  "houseRules": [],
+  "seatingOrder": [
+    "Maxwell",
+    "Mortimer"
+  ],
+  "firstPlayerGen1": "Maxwell",
+  "gameMode": "app-online",
+  "appUrl": "http://REDACTED-LAN-HOST:8080",
+  "judgment": {
+    "level": "every",
+    "k": 1,
+    "quiet_zone": true,
+    "executor": "auto"
+  },
+  "startedAt": "2026-08-29",
+  "endedAt": "2026-08-29",
+  "result": "Mortimer (Ecoline, human/opponent seat) WON 92-66 vs Maxwell (Mining Guild, advisor). 12 generations, app-online full-API autopilot, 2p Corporate Era Tharsis, no draft. Advisor swept all 3 awards 15-0 and won card VP 13-3, but lost TR 27-58 and tile VP 6-21: no terraforming engine was ever built and the first greenery landed in gen 10."
+}

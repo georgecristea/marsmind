@@ -1,0 +1,1196 @@
+{
+  "map": "tharsis",
+  "source": "https://github.com/terraforming-mars/terraforming-mars",
+  "commit": "7dfdbb353d362f38e6f77e50096c7463e431404c",
+  "rows": [
+    5,
+    6,
+    7,
+    8,
+    9,
+    8,
+    7,
+    6,
+    5
+  ],
+  "counts": {
+    "onMapSpaces": 61,
+    "oceanReserved": 12,
+    "offMapSpaces": 2
+  },
+  "spaces": [
+    {
+      "id": "01",
+      "name": "Ganymede Colony",
+      "offMap": true,
+      "type": "colony",
+      "bonus": [],
+      "oceanReserved": false,
+      "adjacent": [],
+      "reservedFor": "Ganymede Colony card city tile"
+    },
+    {
+      "id": "02",
+      "name": "Phobos Space Haven",
+      "offMap": true,
+      "type": "colony",
+      "bonus": [],
+      "oceanReserved": false,
+      "adjacent": [],
+      "reservedFor": "Phobos Space Haven card city tile"
+    },
+    {
+      "id": "03",
+      "row": 0,
+      "x": 4,
+      "y": 0,
+      "type": "land",
+      "bonus": [
+        "steel",
+        "steel"
+      ],
+      "oceanReserved": false,
+      "offMap": false,
+      "adjacent": [
+        "04",
+        "09",
+        "08"
+      ]
+    },
+    {
+      "id": "04",
+      "row": 0,
+      "x": 5,
+      "y": 0,
+      "type": "ocean",
+      "bonus": [
+        "steel",
+        "steel"
+      ],
+      "oceanReserved": true,
+      "offMap": false,
+      "adjacent": [
+        "05",
+        "10",
+        "09",
+        "03"
+      ]
+    },
+    {
+      "id": "05",
+      "row": 0,
+      "x": 6,
+      "y": 0,
+      "type": "land",
+      "bonus": [],
+      "oceanReserved": false,
+      "offMap": false,
+      "adjacent": [
+        "06",
+        "11",
+        "10",
+        "04"
+      ]
+    },
+    {
+      "id": "06",
+      "row": 0,
+      "x": 7,
+      "y": 0,
+      "type": "ocean",
+      "bonus": [
+        "card"
+      ],
+      "oceanReserved": true,
+      "offMap": false,
+      "adjacent": [
+        "07",
+        "12",
+        "11",
+        "05"
+      ]
+    },
+    {
+      "id": "07",
+      "row": 0,
+      "x": 8,
+      "y": 0,
+      "type": "ocean",
+      "bonus": [],
+      "oceanReserved": true,
+      "offMap": false,
+      "adjacent": [
+        "13",
+        "12",
+        "06"
+      ]
+    },
+    {
+      "id": "08",
+      "row": 1,
+      "x": 3,
+      "y": 1,
+      "type": "land",
+      "bonus": [],
+      "oceanReserved": false,
+      "offMap": false,
+      "adjacent": [
+        "03",
+        "09",
+        "15",
+        "14"
+      ]
+    },
+    {
+      "id": "09",
+      "row": 1,
+      "x": 4,
+      "y": 1,
+      "type": "land",
+      "bonus": [
+        "steel"
+      ],
+      "oceanReserved": false,
+      "offMap": false,
+      "volcanic": true,
+      "name": "Tharsis Tholus",
+      "adjacent": [
+        "03",
+        "04",
+        "10",
+        "16",
+        "15",
+        "08"
+      ]
+    },
+    {
+      "id": "10",
+      "row": 1,
+      "x": 5,
+      "y": 1,
+      "type": "land",
+      "bonus": [],
+      "oceanReserved": false,
+      "offMap": false,
+      "adjacent": [
+        "04",
+        "05",
+        "11",
+        "17",
+        "16",
+        "09"
+      ]
+    },
+    {
+      "id": "11",
+      "row": 1,
+      "x": 6,
+      "y": 1,
+      "type": "land",
+      "bonus": [],
+      "oceanReserved": false,
+      "offMap": false,
+      "adjacent": [
+        "05",
+        "06",
+        "12",
+        "18",
+        "17",
+        "10"
+      ]
+    },
+    {
+      "id": "12",
+      "row": 1,
+      "x": 7,
+      "y": 1,
+      "type": "land",
+      "bonus": [],
+      "oceanReserved": false,
+      "offMap": false,
+      "adjacent": [
+        "06",
+        "07",
+        "13",
+        "19",
+        "18",
+        "11"
+      ]
+    },
+    {
+      "id": "13",
+      "row": 1,
+      "x": 8,
+      "y": 1,
+      "type": "ocean",
+      "bonus": [
+        "card",
+        "card"
+      ],
+      "oceanReserved": true,
+      "offMap": false,
+      "adjacent": [
+        "07",
+        "20",
+        "19",
+        "12"
+      ]
+    },
+    {
+      "id": "14",
+      "row": 2,
+      "x": 2,
+      "y": 2,
+      "type": "land",
+      "bonus": [
+        "card"
+      ],
+      "oceanReserved": false,
+      "offMap": false,
+      "volcanic": true,
+      "name": "Ascraeus Mons",
+      "adjacent": [
+        "08",
+        "15",
+        "22",
+        "21"
+      ]
+    },
+    {
+      "id": "15",
+      "row": 2,
+      "x": 3,
+      "y": 2,
+      "type": "land",
+      "bonus": [],
+      "oceanReserved": false,
+      "offMap": false,
+      "adjacent": [
+        "08",
+        "09",
+        "16",
+        "23",
+        "22",
+        "14"
+      ]
+    },
+    {
+      "id": "16",
+      "row": 2,
+      "x": 4,
+      "y": 2,
+      "type": "land",
+      "bonus": [],
+      "oceanReserved": false,
+      "offMap": false,
+      "adjacent": [
+        "09",
+        "10",
+        "17",
+        "24",
+        "23",
+        "15"
+      ]
+    },
+    {
+      "id": "17",
+      "row": 2,
+      "x": 5,
+      "y": 2,
+      "type": "land",
+      "bonus": [],
+      "oceanReserved": false,
+      "offMap": false,
+      "adjacent": [
+        "10",
+        "11",
+        "18",
+        "25",
+        "24",
+        "16"
+      ]
+    },
+    {
+      "id": "18",
+      "row": 2,
+      "x": 6,
+      "y": 2,
+      "type": "land",
+      "bonus": [],
+      "oceanReserved": false,
+      "offMap": false,
+      "adjacent": [
+        "11",
+        "12",
+        "19",
+        "26",
+        "25",
+        "17"
+      ]
+    },
+    {
+      "id": "19",
+      "row": 2,
+      "x": 7,
+      "y": 2,
+      "type": "land",
+      "bonus": [],
+      "oceanReserved": false,
+      "offMap": false,
+      "adjacent": [
+        "12",
+        "13",
+        "20",
+        "27",
+        "26",
+        "18"
+      ]
+    },
+    {
+      "id": "20",
+      "row": 2,
+      "x": 8,
+      "y": 2,
+      "type": "land",
+      "bonus": [
+        "steel"
+      ],
+      "oceanReserved": false,
+      "offMap": false,
+      "adjacent": [
+        "13",
+        "28",
+        "27",
+        "19"
+      ]
+    },
+    {
+      "id": "21",
+      "row": 3,
+      "x": 1,
+      "y": 3,
+      "type": "land",
+      "bonus": [
+        "plant",
+        "titanium"
+      ],
+      "oceanReserved": false,
+      "offMap": false,
+      "volcanic": true,
+      "name": "Pavonis Mons",
+      "adjacent": [
+        "14",
+        "22",
+        "30",
+        "29"
+      ]
+    },
+    {
+      "id": "22",
+      "row": 3,
+      "x": 2,
+      "y": 3,
+      "type": "land",
+      "bonus": [
+        "plant"
+      ],
+      "oceanReserved": false,
+      "offMap": false,
+      "adjacent": [
+        "14",
+        "15",
+        "23",
+        "31",
+        "30",
+        "21"
+      ]
+    },
+    {
+      "id": "23",
+      "row": 3,
+      "x": 3,
+      "y": 3,
+      "type": "land",
+      "bonus": [
+        "plant"
+      ],
+      "oceanReserved": false,
+      "offMap": false,
+      "adjacent": [
+        "15",
+        "16",
+        "24",
+        "32",
+        "31",
+        "22"
+      ]
+    },
+    {
+      "id": "24",
+      "row": 3,
+      "x": 4,
+      "y": 3,
+      "type": "land",
+      "bonus": [
+        "plant"
+      ],
+      "oceanReserved": false,
+      "offMap": false,
+      "adjacent": [
+        "16",
+        "17",
+        "25",
+        "33",
+        "32",
+        "23"
+      ]
+    },
+    {
+      "id": "25",
+      "row": 3,
+      "x": 5,
+      "y": 3,
+      "type": "land",
+      "bonus": [
+        "plant",
+        "plant"
+      ],
+      "oceanReserved": false,
+      "offMap": false,
+      "adjacent": [
+        "17",
+        "18",
+        "26",
+        "34",
+        "33",
+        "24"
+      ]
+    },
+    {
+      "id": "26",
+      "row": 3,
+      "x": 6,
+      "y": 3,
+      "type": "land",
+      "bonus": [
+        "plant"
+      ],
+      "oceanReserved": false,
+      "offMap": false,
+      "adjacent": [
+        "18",
+        "19",
+        "27",
+        "35",
+        "34",
+        "25"
+      ]
+    },
+    {
+      "id": "27",
+      "row": 3,
+      "x": 7,
+      "y": 3,
+      "type": "land",
+      "bonus": [
+        "plant"
+      ],
+      "oceanReserved": false,
+      "offMap": false,
+      "adjacent": [
+        "19",
+        "20",
+        "28",
+        "36",
+        "35",
+        "26"
+      ]
+    },
+    {
+      "id": "28",
+      "row": 3,
+      "x": 8,
+      "y": 3,
+      "type": "ocean",
+      "bonus": [
+        "plant",
+        "plant"
+      ],
+      "oceanReserved": true,
+      "offMap": false,
+      "adjacent": [
+        "20",
+        "37",
+        "36",
+        "27"
+      ]
+    },
+    {
+      "id": "29",
+      "row": 4,
+      "x": 0,
+      "y": 4,
+      "type": "land",
+      "bonus": [
+        "plant",
+        "plant"
+      ],
+      "oceanReserved": false,
+      "offMap": false,
+      "volcanic": true,
+      "name": "Arsia Mons",
+      "adjacent": [
+        "21",
+        "30",
+        "38"
+      ]
+    },
+    {
+      "id": "30",
+      "row": 4,
+      "x": 1,
+      "y": 4,
+      "type": "land",
+      "bonus": [
+        "plant",
+        "plant"
+      ],
+      "oceanReserved": false,
+      "offMap": false,
+      "adjacent": [
+        "21",
+        "22",
+        "31",
+        "39",
+        "38",
+        "29"
+      ]
+    },
+    {
+      "id": "31",
+      "row": 4,
+      "x": 2,
+      "y": 4,
+      "type": "land",
+      "bonus": [
+        "plant",
+        "plant"
+      ],
+      "oceanReserved": false,
+      "offMap": false,
+      "name": "Noctis City",
+      "reservedFor": "Noctis City (city tile from the Noctis City card only)",
+      "adjacent": [
+        "22",
+        "23",
+        "32",
+        "40",
+        "39",
+        "30"
+      ]
+    },
+    {
+      "id": "32",
+      "row": 4,
+      "x": 3,
+      "y": 4,
+      "type": "ocean",
+      "bonus": [
+        "plant",
+        "plant"
+      ],
+      "oceanReserved": true,
+      "offMap": false,
+      "adjacent": [
+        "23",
+        "24",
+        "33",
+        "41",
+        "40",
+        "31"
+      ]
+    },
+    {
+      "id": "33",
+      "row": 4,
+      "x": 4,
+      "y": 4,
+      "type": "ocean",
+      "bonus": [
+        "plant",
+        "plant"
+      ],
+      "oceanReserved": true,
+      "offMap": false,
+      "adjacent": [
+        "24",
+        "25",
+        "34",
+        "42",
+        "41",
+        "32"
+      ]
+    },
+    {
+      "id": "34",
+      "row": 4,
+      "x": 5,
+      "y": 4,
+      "type": "ocean",
+      "bonus": [
+        "plant",
+        "plant"
+      ],
+      "oceanReserved": true,
+      "offMap": false,
+      "adjacent": [
+        "25",
+        "26",
+        "35",
+        "43",
+        "42",
+        "33"
+      ]
+    },
+    {
+      "id": "35",
+      "row": 4,
+      "x": 6,
+      "y": 4,
+      "type": "land",
+      "bonus": [
+        "plant",
+        "plant"
+      ],
+      "oceanReserved": false,
+      "offMap": false,
+      "adjacent": [
+        "26",
+        "27",
+        "36",
+        "44",
+        "43",
+        "34"
+      ]
+    },
+    {
+      "id": "36",
+      "row": 4,
+      "x": 7,
+      "y": 4,
+      "type": "land",
+      "bonus": [
+        "plant",
+        "plant"
+      ],
+      "oceanReserved": false,
+      "offMap": false,
+      "adjacent": [
+        "27",
+        "28",
+        "37",
+        "45",
+        "44",
+        "35"
+      ]
+    },
+    {
+      "id": "37",
+      "row": 4,
+      "x": 8,
+      "y": 4,
+      "type": "land",
+      "bonus": [
+        "plant",
+        "plant"
+      ],
+      "oceanReserved": false,
+      "offMap": false,
+      "adjacent": [
+        "28",
+        "45",
+        "36"
+      ]
+    },
+    {
+      "id": "38",
+      "row": 5,
+      "x": 1,
+      "y": 5,
+      "type": "land",
+      "bonus": [
+        "plant"
+      ],
+      "oceanReserved": false,
+      "offMap": false,
+      "adjacent": [
+        "29",
+        "30",
+        "39",
+        "46"
+      ]
+    },
+    {
+      "id": "39",
+      "row": 5,
+      "x": 2,
+      "y": 5,
+      "type": "land",
+      "bonus": [
+        "plant",
+        "plant"
+      ],
+      "oceanReserved": false,
+      "offMap": false,
+      "adjacent": [
+        "30",
+        "31",
+        "40",
+        "47",
+        "46",
+        "38"
+      ]
+    },
+    {
+      "id": "40",
+      "row": 5,
+      "x": 3,
+      "y": 5,
+      "type": "land",
+      "bonus": [
+        "plant"
+      ],
+      "oceanReserved": false,
+      "offMap": false,
+      "adjacent": [
+        "31",
+        "32",
+        "41",
+        "48",
+        "47",
+        "39"
+      ]
+    },
+    {
+      "id": "41",
+      "row": 5,
+      "x": 4,
+      "y": 5,
+      "type": "land",
+      "bonus": [
+        "plant"
+      ],
+      "oceanReserved": false,
+      "offMap": false,
+      "adjacent": [
+        "32",
+        "33",
+        "42",
+        "49",
+        "48",
+        "40"
+      ]
+    },
+    {
+      "id": "42",
+      "row": 5,
+      "x": 5,
+      "y": 5,
+      "type": "land",
+      "bonus": [
+        "plant"
+      ],
+      "oceanReserved": false,
+      "offMap": false,
+      "adjacent": [
+        "33",
+        "34",
+        "43",
+        "50",
+        "49",
+        "41"
+      ]
+    },
+    {
+      "id": "43",
+      "row": 5,
+      "x": 6,
+      "y": 5,
+      "type": "ocean",
+      "bonus": [
+        "plant"
+      ],
+      "oceanReserved": true,
+      "offMap": false,
+      "adjacent": [
+        "34",
+        "35",
+        "44",
+        "51",
+        "50",
+        "42"
+      ]
+    },
+    {
+      "id": "44",
+      "row": 5,
+      "x": 7,
+      "y": 5,
+      "type": "ocean",
+      "bonus": [
+        "plant"
+      ],
+      "oceanReserved": true,
+      "offMap": false,
+      "adjacent": [
+        "35",
+        "36",
+        "45",
+        "52",
+        "51",
+        "43"
+      ]
+    },
+    {
+      "id": "45",
+      "row": 5,
+      "x": 8,
+      "y": 5,
+      "type": "ocean",
+      "bonus": [
+        "plant"
+      ],
+      "oceanReserved": true,
+      "offMap": false,
+      "adjacent": [
+        "36",
+        "37",
+        "52",
+        "44"
+      ]
+    },
+    {
+      "id": "46",
+      "row": 6,
+      "x": 2,
+      "y": 6,
+      "type": "land",
+      "bonus": [],
+      "oceanReserved": false,
+      "offMap": false,
+      "adjacent": [
+        "38",
+        "39",
+        "47",
+        "53"
+      ]
+    },
+    {
+      "id": "47",
+      "row": 6,
+      "x": 3,
+      "y": 6,
+      "type": "land",
+      "bonus": [],
+      "oceanReserved": false,
+      "offMap": false,
+      "adjacent": [
+        "39",
+        "40",
+        "48",
+        "54",
+        "53",
+        "46"
+      ]
+    },
+    {
+      "id": "48",
+      "row": 6,
+      "x": 4,
+      "y": 6,
+      "type": "land",
+      "bonus": [],
+      "oceanReserved": false,
+      "offMap": false,
+      "adjacent": [
+        "40",
+        "41",
+        "49",
+        "55",
+        "54",
+        "47"
+      ]
+    },
+    {
+      "id": "49",
+      "row": 6,
+      "x": 5,
+      "y": 6,
+      "type": "land",
+      "bonus": [],
+      "oceanReserved": false,
+      "offMap": false,
+      "adjacent": [
+        "41",
+        "42",
+        "50",
+        "56",
+        "55",
+        "48"
+      ]
+    },
+    {
+      "id": "50",
+      "row": 6,
+      "x": 6,
+      "y": 6,
+      "type": "land",
+      "bonus": [],
+      "oceanReserved": false,
+      "offMap": false,
+      "adjacent": [
+        "42",
+        "43",
+        "51",
+        "57",
+        "56",
+        "49"
+      ]
+    },
+    {
+      "id": "51",
+      "row": 6,
+      "x": 7,
+      "y": 6,
+      "type": "land",
+      "bonus": [
+        "plant"
+      ],
+      "oceanReserved": false,
+      "offMap": false,
+      "adjacent": [
+        "43",
+        "44",
+        "52",
+        "58",
+        "57",
+        "50"
+      ]
+    },
+    {
+      "id": "52",
+      "row": 6,
+      "x": 8,
+      "y": 6,
+      "type": "land",
+      "bonus": [],
+      "oceanReserved": false,
+      "offMap": false,
+      "adjacent": [
+        "44",
+        "45",
+        "58",
+        "51"
+      ]
+    },
+    {
+      "id": "53",
+      "row": 7,
+      "x": 3,
+      "y": 7,
+      "type": "land",
+      "bonus": [
+        "steel",
+        "steel"
+      ],
+      "oceanReserved": false,
+      "offMap": false,
+      "adjacent": [
+        "46",
+        "47",
+        "54",
+        "59"
+      ]
+    },
+    {
+      "id": "54",
+      "row": 7,
+      "x": 4,
+      "y": 7,
+      "type": "land",
+      "bonus": [],
+      "oceanReserved": false,
+      "offMap": false,
+      "adjacent": [
+        "47",
+        "48",
+        "55",
+        "60",
+        "59",
+        "53"
+      ]
+    },
+    {
+      "id": "55",
+      "row": 7,
+      "x": 5,
+      "y": 7,
+      "type": "land",
+      "bonus": [
+        "card"
+      ],
+      "oceanReserved": false,
+      "offMap": false,
+      "adjacent": [
+        "48",
+        "49",
+        "56",
+        "61",
+        "60",
+        "54"
+      ]
+    },
+    {
+      "id": "56",
+      "row": 7,
+      "x": 6,
+      "y": 7,
+      "type": "land",
+      "bonus": [
+        "card"
+      ],
+      "oceanReserved": false,
+      "offMap": false,
+      "adjacent": [
+        "49",
+        "50",
+        "57",
+        "62",
+        "61",
+        "55"
+      ]
+    },
+    {
+      "id": "57",
+      "row": 7,
+      "x": 7,
+      "y": 7,
+      "type": "land",
+      "bonus": [],
+      "oceanReserved": false,
+      "offMap": false,
+      "adjacent": [
+        "50",
+        "51",
+        "58",
+        "63",
+        "62",
+        "56"
+      ]
+    },
+    {
+      "id": "58",
+      "row": 7,
+      "x": 8,
+      "y": 7,
+      "type": "land",
+      "bonus": [
+        "titanium"
+      ],
+      "oceanReserved": false,
+      "offMap": false,
+      "adjacent": [
+        "51",
+        "52",
+        "63",
+        "57"
+      ]
+    },
+    {
+      "id": "59",
+      "row": 8,
+      "x": 4,
+      "y": 8,
+      "type": "land",
+      "bonus": [
+        "steel"
+      ],
+      "oceanReserved": false,
+      "offMap": false,
+      "adjacent": [
+        "53",
+        "54",
+        "60"
+      ]
+    },
+    {
+      "id": "60",
+      "row": 8,
+      "x": 5,
+      "y": 8,
+      "type": "land",
+      "bonus": [
+        "steel",
+        "steel"
+      ],
+      "oceanReserved": false,
+      "offMap": false,
+      "adjacent": [
+        "54",
+        "55",
+        "61",
+        "59"
+      ]
+    },
+    {
+      "id": "61",
+      "row": 8,
+      "x": 6,
+      "y": 8,
+      "type": "land",
+      "bonus": [],
+      "oceanReserved": false,
+      "offMap": false,
+      "adjacent": [
+        "55",
+        "56",
+        "62",
+        "60"
+      ]
+    },
+    {
+      "id": "62",
+      "row": 8,
+      "x": 7,
+      "y": 8,
+      "type": "land",
+      "bonus": [],
+      "oceanReserved": false,
+      "offMap": false,
+      "adjacent": [
+        "56",
+        "57",
+        "63",
+        "61"
+      ]
+    },
+    {
+      "id": "63",
+      "row": 8,
+      "x": 8,
+      "y": 8,
+      "type": "ocean",
+      "bonus": [
+        "titanium",
+        "titanium"
+      ],
+      "oceanReserved": true,
+      "offMap": false,
+      "adjacent": [
+        "57",
+        "58",
+        "62"
+      ]
+    }
+  ]
+}

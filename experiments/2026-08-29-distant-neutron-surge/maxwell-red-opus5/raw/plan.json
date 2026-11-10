@@ -1,0 +1,108 @@
+{
+  "generation": 12,
+  "draft": false,
+  "threats": "Mortimer [Ecoline] — TR 50 v my 26, 60 MC, 6 plants, plant prod 4, 9 heat, heat prod 6, SIXTEEN tiles (3 cities, 10 greeneries, 3 special). Globals temp -2, oxygen 13% (ONE step from max), oceans 6. clock.py: ~1 generation left, end ~gen 13. He is first player. This is lost on TR barring a collapse — he gains ~4 TR a generation from heat plus greeneries and I gain ~2 — so the remaining job is to maximise the final margin, not to chase him. All six milestone/award slots are resolved and every funded metric is safely mine (Banker 13 v 3, Scientist 5 v 2, Miner 7 v ZERO), so nothing needs defending. THE ONE SCARCE THING LEFT IS THE LAST OXYGEN STEP: exactly one remains, so exactly one more greenery anywhere on the table earns its +1 TR, and it must be MINE and it must be this turn — he is first player and places roughly a greenery a generation. That is why step 1b is a 23 MC standard project taken ahead of every cheaper option. Declined the whole research offer: Underground Detonations and Optimal Aerobraking are dead with no heat plan and no space events left, Security Fleet needs generations it does not have, and Media Archives returns about 10 MC for 8 — none is worth an action in a two-generation game.",
+  "feedCursor": 294,
+  "steps": [
+    {
+      "id": "1a",
+      "volatility": "safe",
+      "summary": "SPACE ELEVATOR ACTION — 1 steel to 5 MC: MC 43->48, steel 8->7. Miner is locked at his ZERO metal production, so steel is pure spending power and this 5 MC is what lets 1b and 2a both happen this generation.",
+      "events": [
+        {
+          "method": "use_action",
+          "args": [
+            "Space Elevator",
+            "Maxwell"
+          ],
+          "kwargs": {}
+        }
+      ],
+      "done": true
+    },
+    {
+      "id": "1b",
+      "volatility": "recheck",
+      "cue": "red greenery on hex 47, oxygen at maximum, TR 27, MC down to 25",
+      "summary": "SP GREENERY (23 MC) on hex 47 — MC 48->25; oxygen 13->14 which is MAX, TR 26->27. Three VP and the last of its kind: 1 for the tile, 1 more because city 53 now touches THREE greeneries (47, 54, 59), and 1 TR for the final oxygen step. Every greenery after this one is worth 2, so this is taken before Tundra Farming and before any cheaper card.",
+      "events": [
+        {
+          "method": "standard",
+          "args": [
+            "Maxwell",
+            "greenery"
+          ],
+          "kwargs": {}
+        },
+        {
+          "method": "place",
+          "args": [
+            "Maxwell",
+            "greenery",
+            "47"
+          ],
+          "kwargs": {}
+        }
+      ],
+      "mapHighlight": "47",
+      "done": true
+    },
+    {
+      "id": "2a",
+      "volatility": "safe",
+      "summary": "PLAY Tundra Farming (16 MC) — MC 25->9; +2 printed VP; plants 4->5, plant prod 3->4, MC prod 13->15. Its min -6C window finally opened (temp -2). Worth more than the 2 VP on the card: 4 plants a generation takes me to 9 plants next generation, which buys a FREE greenery on hex 46 — without it I reach only 7 and get nothing. Effectively 4 VP for 16 MC.",
+      "events": [
+        {
+          "method": "play",
+          "args": [
+            "Maxwell",
+            "Tundra Farming"
+          ],
+          "kwargs": {}
+        }
+      ],
+      "done": true
+    },
+    {
+      "id": "2b",
+      "volatility": "safe",
+      "summary": "SMALL ANIMALS ACTION — add 1 animal, FREE (1 VP per 2 animals).",
+      "events": [
+        {
+          "method": "use_action",
+          "args": [
+            "Small Animals",
+            "Maxwell"
+          ],
+          "kwargs": {}
+        }
+      ],
+      "done": true
+    },
+    {
+      "id": "3a",
+      "volatility": "safe",
+      "summary": "SEARCH FOR LIFE ACTION (1 MC) — MC 9->8. Last realistic shots at the 3 VP on this card.",
+      "events": [
+        {
+          "method": "use_action",
+          "args": [
+            "Search For Life",
+            "Maxwell"
+          ],
+          "kwargs": {}
+        }
+      ],
+      "done": true
+    },
+    {
+      "id": "3b",
+      "volatility": "recheck",
+      "passGate": true,
+      "force": "8 MC left, all three repeatable actions spent (Space Elevator 1a, Small Animals 2b, Search For Life 3a). Algae (10) is 2 MC short and would only add plant production with one generation to use it. Mining Expedition (12) is unaffordable and now pointless: oxygen is at maximum after 1b so its TR step is dead, and removing 2 of his 6 plants still leaves him above Ecoline's 7-plant threshold next generation, so the denial fails. Heat Trappers costs me 1 VP to deny ~2 heat with one generation left — a net loss. Building Industries adds steel production I cannot spend and Miner is already locked. No standard project is reachable at 8 MC. All milestones and awards resolved.",
+      "summary": "PASS generation 12 — 8 MC into the final generation on ~41 MC and 9 plants, which converts a FREE greenery on hex 46 and buys whatever TR the remainder reaches.",
+      "events": [],
+      "done": true
+    }
+  ]
+}

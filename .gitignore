@@ -1,0 +1,19 @@
+__pycache__/
+*.pyc
+.DS_Store
+
+# local-only data: never committed
+vendor
+private/
+games/*
+!games/.gitkeep
+/state
+evals.jsonl
+CLAUDE.local.md
+
+# per-seat state folders (session.py seat-init) — local only
+seats/
+
+# Claude Code: only the GENERATED subagent adapters are tracked
+.claude/*
+!.claude/agents/

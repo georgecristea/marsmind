@@ -1,0 +1,126 @@
+{
+ "temperature": 8,
+ "oxygenLevel": 14,
+ "oceans": 9,
+ "generation": 17,
+ "phase": "end",
+ "milestones": [
+  {
+   "playerName": "Zed",
+   "color": "red",
+   "name": "Terraformer",
+   "scores": []
+  },
+  {
+   "playerName": "Carl",
+   "color": "blue",
+   "name": "Mayor",
+   "scores": []
+  },
+  {
+   "playerName": "Zed",
+   "color": "red",
+   "name": "Gardener",
+   "scores": []
+  },
+  {
+   "name": "Builder",
+   "scores": []
+  },
+  {
+   "name": "Planner",
+   "scores": []
+  }
+ ],
+ "awards": [
+  {
+   "playerName": "Ben",
+   "color": "yellow",
+   "name": "Landlord",
+   "scores": [
+    {
+     "color": "red",
+     "score": 10
+    },
+    {
+     "color": "green",
+     "score": 13
+    },
+    {
+     "color": "yellow",
+     "score": 11
+    },
+    {
+     "color": "blue",
+     "score": 11
+    },
+    {
+     "color": "black",
+     "score": 7
+    }
+   ]
+  },
+  {
+   "playerName": "Zed",
+   "color": "red",
+   "name": "Scientist",
+   "scores": [
+    {
+     "color": "red",
+     "score": 7
+    },
+    {
+     "color": "green",
+     "score": 2
+    },
+    {
+     "color": "yellow",
+     "score": 2
+    },
+    {
+     "color": "blue",
+     "score": 1
+    },
+    {
+     "color": "black",
+     "score": 1
+    }
+   ]
+  },
+  {
+   "name": "Banker",
+   "scores": []
+  },
+  {
+   "name": "Thermalist",
+   "scores": []
+  },
+  {
+   "playerName": "Diana",
+   "color": "black",
+   "name": "Miner",
+   "scores": [
+    {
+     "color": "red",
+     "score": 4
+    },
+    {
+     "color": "green",
+     "score": 5
+    },
+    {
+     "color": "yellow",
+     "score": 47
+    },
+    {
+     "color": "blue",
+     "score": 8
+    },
+    {
+     "color": "black",
+     "score": 94
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,19 @@
+{
+  "gameId": "<gameId>",
+  "appGameName": "Distant Neutron Surge",
+  "playerCount": 2,
+  "players": [
+    {"name": "Mortimer", "color": "blue", "isMe": true},
+    {"name": "Maxwell", "color": "red", "isMe": false}
+  ],
+  "expansions": ["base", "corporateEra"],
+  "map": "tharsis",
+  "draft": false,
+  "seatingOrder": ["Maxwell", "Mortimer"],
+  "firstPlayerGen1": "Maxwell",
+  "gameMode": "app-online",
+  "executor": "auto",
+  "startedAt": "2026-08-29",
+  "endedAt": "2026-08-29",
+  "redactions": ["appUrl", "playerId"]
+}

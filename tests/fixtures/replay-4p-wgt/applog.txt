@@ -1,0 +1,595 @@
+First player this generation is Anna
+Good luck Anna!
+Good luck Carl!
+Good luck Diana!
+Good luck Ben!
+Generation 1
+Anna played Inventrix
+Anna kept 5 project cards
+Carl played ThorGate
+Carl gained 1 energy production
+Carl kept 4 project cards
+Diana played Teractor
+Diana kept 6 project cards
+Ben played CrediCor
+Ben kept 6 project cards
+Anna took the first action of Inventrix corporation
+Anna drew 3 card(s)
+You drew Io Mining Industries,Anti-Gravity Technology,Predators
+Anna played Earth Catapult
+Carl played Ice Asteroid
+Carl placed ocean tile at 63
+Carl gained 2 titanium
+Carl placed ocean tile at 04
+Carl gained 2 steel
+Carl played Power Infrastructure
+Diana played Business Contacts
+Diana drew 2 card(s)
+You drew Artificial Photosynthesis,GHG Producing Bacteria
+Diana played Nuclear Power
+Diana lost 2 M€ production
+Diana gained 3 energy production
+Ben played Immigration Shuttles
+Ben gained 5 M€ production
+Ben gained 4 M€
+Ben played Titanium Mine
+Ben gained 1 titanium production
+Anna played Wave Power
+Anna gained 1 energy production
+Anna ended turn
+Carl played Rad-Chem Factory
+Carl lost 1 energy production
+Carl used Power Plant:SP standard project
+Diana played Industrial Microbes
+Diana gained 1 steel production
+Diana gained 1 energy production
+Diana played Equatorial Magnetizer
+Ben passed
+Anna passed
+Carl passed
+Diana used Equatorial Magnetizer action
+Diana lost 1 energy production
+Diana passed
+Anna acted as World Government and increased temperature
+Generation 2
+First player this generation is Carl
+Carl bought 2 card(s)
+You bought Power Supply Consortium,Bribed Committee
+Anna bought 1 card(s)
+You bought Solar Wind Power
+Ben bought 1 card(s)
+You bought Mining Area
+Diana bought 1 card(s)
+You bought Ironworks
+Carl played Power Supply Consortium
+Carl stole 1 energy production from Diana
+Carl played Bribed Committee
+Diana played Artificial Photosynthesis
+Diana gained 2 energy production
+Diana played Nuclear Zone
+Diana gained 1 heat production
+Diana placed Nuclear Zone tile at 03
+Diana gained 2 steel
+Diana gained 2 M€ from 1 ocean(s)
+Ben played Protected Valley
+Ben gained 2 M€ production
+Ben gained 4 M€
+Ben placed greenery tile at 32
+Ben gained 2 plants
+Ben ended turn
+Anna played Natural Preserve
+Anna gained 1 M€ production
+Anna placed Natural Preserve tile at 21
+Anna gained 1 plant
+Anna gained 1 titanium
+Anna played Solar Wind Power
+Anna gained 1 energy production
+Anna gained 2 titanium
+Carl used Power Plant:SP standard project
+Carl ended turn
+Diana used Equatorial Magnetizer action
+Diana lost 1 energy production
+Diana ended turn
+Ben funded Banker award
+Ben ended turn
+Anna passed
+Carl passed
+Diana passed
+Ben passed
+Carl acted as World Government and increased oxygen level
+Generation 3
+First player this generation is Diana
+Anna bought 2 card(s)
+You bought Space Station,Lightning Harvest
+Ben bought 2 card(s)
+You bought Designed Microorganisms,Adaptation Technology
+Carl bought 3 card(s)
+You bought Immigrant City,Adapted Lichen,Cloud Seeding
+Diana bought 2 card(s)
+You bought Domed Crater,Hired Raiders
+Diana played Domed Crater
+Diana gained 3 M€ production
+Diana lost 1 energy production
+Diana gained 3 plants
+Diana placed city tile at 39
+Diana gained 2 plants
+Diana played Hired Raiders
+Diana stole 3 M€ from Ben
+Ben played Designed Microorganisms
+Ben gained 2 plant production
+Ben ended turn
+Anna played Space Station
+Anna played Lightning Harvest
+Anna gained 1 M€ production
+Anna gained 1 energy production
+Carl used Power Infrastructure action
+Carl gained 3 M€
+Carl played Immigrant City
+Carl placed city tile at 25
+Carl gained 2 plants
+Carl gained 1 M€ production
+Diana used Equatorial Magnetizer action
+Diana lost 1 energy production
+Diana ended turn
+Ben passed
+Anna passed
+Carl used Power Plant:SP standard project
+Carl passed
+Diana passed
+Diana acted as World Government and increased oxygen level
+Generation 4
+First player this generation is Ben
+Carl bought 2 card(s)
+You bought Rad-Suits,Development Center
+Anna bought 3 card(s)
+You bought Arctic Algae,Steelworks,Imported Hydrogen
+Ben bought 2 card(s)
+You bought Space Mirrors,Kelp Farming
+Diana bought 4 card(s)
+You bought Sponsors,Robotic Workforce,Nitrite Reducing Bacteria,Miranda Resort
+Ben played Space Mirrors
+Ben used Space Mirrors action
+Ben gained 1 energy production
+Anna played Arctic Algae
+Anna gained 1 plant
+Anna passed
+Carl used Power Infrastructure action
+Carl gained 1 M€
+Carl played Rad-Suits
+Carl gained 1 M€ production
+Diana played Sponsors
+Diana gained 2 M€ production
+Diana played Miranda Resort
+Diana gained 3 M€ production
+Ben played Commercial District
+Ben gained 4 M€ production
+Ben lost 1 energy production
+Ben placed Commercial District tile at 40
+Ben gained 1 plant
+Ben ended turn
+Carl played Adapted Lichen
+Carl gained 1 plant production
+Carl passed
+Diana used Equatorial Magnetizer action
+Diana lost 1 energy production
+Diana used Convert Heat standard action
+Ben passed
+Diana passed
+Ben placed ocean tile at 13
+Ben acted as World Government and placed an ocean
+Anna gained 2 plants from Arctic Algae
+Generation 5
+First player this generation is Anna
+Carl bought 2 card(s)
+You bought Dust Seals,Medical Lab
+Ben bought 2 card(s)
+You bought Colonizer Training Camp,Water Import From Europa
+Anna bought 3 card(s)
+You bought Rover Construction,Nitrogen-Rich Asteroid,Moss
+Diana bought 2 card(s)
+You bought Big Asteroid,Olympus Conference
+Anna played Rover Construction
+Anna played Moss
+Anna gained 1 plant production
+Carl used Power Infrastructure action
+Carl gained 3 M€
+Carl played Dust Seals
+Diana played Big Asteroid
+Diana gained 4 titanium
+Diana gained 1 heat production
+Ben lost 4 plants because of Diana
+Diana played Olympus Conference
+Diana added 1 Science to Olympus Conference
+Ben used Space Mirrors action
+Ben gained 1 energy production
+Ben played Colonizer Training Camp
+Anna played Comet
+Anna placed ocean tile at 34
+Anna gained 2 plants
+Ben lost 3 plants because of Anna
+Anna gained 2 plants from Arctic Algae
+Anna ended turn
+Carl played Sabotage
+Diana lost 3 titanium because of Carl
+Carl played Cloud Seeding
+Carl lost 1 M€ production
+Carl gained 2 plant production
+Diana lost 1 heat production because of Carl
+Diana passed
+Ben played Adaptation Technology
+Ben ended turn
+Anna passed
+Carl played Development Center
+Carl passed
+Ben passed
+Anna placed ocean tile at 28
+Anna acted as World Government and placed an ocean
+Anna gained 2 plants from Arctic Algae
+Generation 6
+First player this generation is Carl
+Carl bought 1 card(s)
+You bought Research Outpost
+Anna bought 2 card(s)
+You bought Technology Demonstration,Satellites
+Ben bought 2 card(s)
+You bought Terraforming Ganymede,Giant Space Mirror
+Diana bought 3 card(s)
+You bought Deimos Down,Cartel,Business Network
+Carl used Development Center action
+Carl drew 1 card(s)
+You drew Great Dam
+Carl played Research Outpost
+Carl placed city tile at 60
+Carl gained 2 steel
+Anna gained 2 M€
+Carl gained 1 M€ production
+Diana played Deimos Down
+Diana gained 4 steel
+Anna lost 8 plants because of Diana
+Diana used Sell Patents standard project
+Diana sold 1 patents
+Ben played Water Import From Europa
+Ben gained 4 M€
+Ben played Giant Space Mirror
+Ben gained 3 energy production
+Anna played Technology Demonstration
+Anna drew 2 card(s)
+You drew Fusion Power,Peroxide Power
+Anna played Satellites
+Anna gained 3 M€ production
+Carl used Power Infrastructure action
+Carl gained 2 M€
+Carl played Great Dam
+Carl gained 2 energy production
+Diana played Business Network
+Diana lost 1 M€ production
+Diana ended turn
+Ben passed
+Anna played Fusion Power
+Anna gained 3 energy production
+Anna passed
+Carl passed
+Diana passed
+Carl placed ocean tile at 33
+Carl acted as World Government and placed an ocean
+Anna gained 2 plants from Arctic Algae
+Generation 7
+First player this generation is Diana
+Carl bought 1 card(s)
+You bought Martian Rails
+Anna bought 2 card(s)
+You bought AI Central,Invention Contest
+Ben bought 2 card(s)
+You bought Ganymede Colony,Media Archives
+Diana bought 3 card(s)
+You bought Deep Well Heating,Mining Rights,Underground Detonations
+Diana played Cartel
+Diana gained 6 M€ production
+Diana played Deep Well Heating
+Diana gained 1 energy production
+Ben played Ganymede Colony
+Ben gained 4 M€
+Anna gained 2 M€
+Carl gained 1 M€ production
+Ben played Media Archives
+Ben gained 9 M€
+Anna used Convert Heat standard action
+Anna played Invention Contest
+Anna drew 1 card(s)
+You drew Tundra Farming
+Carl used Convert Plants standard action
+Carl placed greenery tile at 59
+Carl gained 1 steel
+Carl used Development Center action
+Carl drew 1 card(s)
+You drew Soil Factory
+Diana played Mining Rights
+Diana gained 1 titanium production
+Diana placed Mining Rights tile at 58
+Diana gained 1 titanium
+Diana gained 2 M€ from 1 ocean(s)
+Diana played Underground Detonations
+Ben used Water Import From Europa action
+Ben placed ocean tile at 43
+Ben gained 1 plant
+Ben gained 2 M€ from 1 ocean(s)
+Anna gained 2 plants from Arctic Algae
+Ben ended turn
+Anna played Steelworks
+Anna played Tundra Farming
+Anna gained 2 M€ production
+Anna gained 1 plant production
+Anna gained 1 plant
+Carl played Soil Factory
+Carl gained 1 plant production
+Carl lost 1 energy production
+Carl played Medical Lab
+Carl gained 4 M€ production
+Diana claimed Builder milestone
+Diana used Equatorial Magnetizer action
+Diana lost 1 energy production
+Ben passed
+Anna used Convert Plants standard action
+Anna placed greenery tile at 30
+Anna gained 2 plants
+Anna ended turn
+Carl used Power Infrastructure action
+Carl gained 3 M€
+Carl played Martian Rails
+Diana passed
+Anna used Steelworks action
+Anna gained 2 steel
+Anna passed
+Carl used Martian Rails action
+Carl gained 3 M€
+Carl passed
+Diana acted as World Government and increased oxygen level
+Generation 8
+First player this generation is Ben
+Carl bought 2 card(s)
+You bought Open City,Trans-Neptune Probe
+Anna bought 3 card(s)
+You bought Breathing Filters,Fuel Factory,Insects
+Diana bought 3 card(s)
+You bought Phobos Space Haven,Giant Ice Asteroid,Black Polar Dust
+Ben bought 3 card(s)
+You bought Methane From Titan,Pets,Lava Flows
+Ben played Noctis City
+Ben gained 3 M€ production
+Ben placed city tile at 31
+Ben gained 2 plants
+Ben lost 1 energy production
+Anna gained 2 M€
+Carl gained 1 M€ production
+Ben used Convert Plants standard action
+Ben placed greenery tile at 23
+Ben gained 1 plant
+Anna played Breathing Filters
+Anna played Fuel Factory
+Anna gained 1 M€ production
+Anna gained 1 titanium production
+Anna lost 1 energy production
+Carl used City standard project
+Carl placed city tile at 53
+Carl gained 2 steel
+Anna gained 2 M€
+Carl gained 1 M€ production
+Carl used Martian Rails action
+Carl gained 5 M€
+Diana played Nitrite Reducing Bacteria
+Diana added 3 Microbe(s) to Nitrite Reducing Bacteria
+Diana used Nitrite Reducing Bacteria action
+Diana removed 3 resource(s) from Diana's Nitrite Reducing Bacteria
+Ben played Toll Station
+Ben gained 4 M€ production
+Ben ended turn
+Anna funded Scientist award
+Anna used Steelworks action
+Anna gained 2 steel
+Carl claimed Mayor milestone
+Carl used Development Center action
+Carl drew 1 card(s)
+You drew Indentured Workers
+Diana used Sell Patents standard project
+Diana sold 1 patents
+Diana played Robotic Workforce
+Diana removed a resource from Olympus Conference to draw a card
+Diana drew 1 card(s)
+You drew Space Elevator
+Diana copied Nuclear Power production with Robotic Workforce
+Diana lost 2 M€ production
+Diana gained 3 energy production
+Ben used Sell Patents standard project
+Ben sold 2 patents
+Ben ended turn
+Anna passed
+Carl used Power Infrastructure action
+Carl gained 2 M€
+Carl played Trans-Neptune Probe
+Diana claimed Terraformer milestone
+Diana used Equatorial Magnetizer action
+Diana lost 1 energy production
+Ben passed
+Carl passed
+Diana used Business Network action
+Diana bought 1 card(s)
+You bought Investment Loan
+Diana played Investment Loan
+Diana lost 1 M€ production
+Diana gained 10 M€
+Diana played Vesta Shipyard
+Diana gained 1 titanium production
+Diana passed
+Ben acted as World Government and increased oxygen level
+Generation 9
+First player this generation is Anna
+Anna bought 3 card(s)
+You bought Earth Office,Local Heat Trapping,Advanced Alloys
+Ben bought 1 card(s)
+You bought Water Splitting Plant
+Carl bought 1 card(s)
+You bought Zeppelins
+Diana bought 2 card(s)
+You bought Import of Advanced GHG,Gene Repair
+Anna played Earth Office
+Anna played Predators
+Carl used Convert Plants standard action
+Carl placed greenery tile at 54
+Carl used City standard project
+Carl placed city tile at 35
+Carl gained 2 plants
+Carl gained 4 M€ from 2 ocean(s)
+Anna gained 2 M€
+Carl gained 1 M€ production
+Diana played Giant Ice Asteroid
+Diana placed ocean tile at 44
+Diana gained 1 plant
+Diana gained 2 M€ from 1 ocean(s)
+Anna gained 2 plants from Arctic Algae
+Diana placed ocean tile at 45
+Diana gained 1 plant
+Diana gained 2 M€ from 1 ocean(s)
+Anna gained 2 plants from Arctic Algae
+Anna lost 6 plants because of Diana
+Diana played Gene Repair
+Diana gained 2 M€ production
+Diana added 1 Science to Olympus Conference
+Ben used Convert Heat standard action
+Ben played Terraforming Ganymede
+Ben gained 4 TR
+Ben gained 4 M€
+Anna played Imported Hydrogen
+Anna added 2 Animal(s) to Predators
+Anna played Advanced Alloys
+Carl used Martian Rails action
+Carl gained 6 M€
+Carl funded Landlord award
+Diana used Equatorial Magnetizer action
+Diana lost 1 energy production
+Diana used Sell Patents standard project
+Diana sold 1 patents
+Ben played Water Splitting Plant
+Ben used Water Splitting Plant action
+Anna played Local Heat Trapping
+Anna added 2 Animal(s) to Predators
+Anna used Predators action
+Anna removed 1 resource(s) from Anna's Predators
+Anna added 1 Animal to Predators
+Carl used Development Center action
+Carl drew 1 card(s)
+You drew Fueled Generators
+Carl used Power Infrastructure action
+Carl gained 2 M€
+Diana used Nitrite Reducing Bacteria action
+Diana added 1 Microbe to Nitrite Reducing Bacteria
+Diana used Business Network action
+Diana bought 0 card(s)
+Ben passed
+Anna passed
+Carl passed
+Diana played Import of Advanced GHG
+Diana gained 2 heat production
+Diana passed
+Anna acted as World Government and increased temperature
+Generation 10
+First player this generation is Carl
+Carl bought 0 card(s)
+Ben bought 1 card(s)
+You bought Security Fleet
+Diana bought 2 card(s)
+You bought Release of Inert Gases,Bushes
+Anna bought 3 card(s)
+You bought Quantum Extractor,Shuttles,Mohole Area
+Carl played Indentured Workers
+Carl played Open City
+Carl gained 4 M€ production
+Carl lost 1 energy production
+Carl gained 2 plants
+Carl placed city tile at 37
+Carl gained 2 plants
+Carl gained 4 M€ from 2 ocean(s)
+Anna gained 2 M€
+Carl gained 1 M€ production
+Diana used Convert Heat standard action
+Diana played Bushes
+Diana gained 2 plant production
+Diana gained 2 plants
+Ben played Methane From Titan
+Ben gained 2 plant production
+Ben gained 2 heat production
+Ben gained 4 M€
+Ben used Greenery standard project
+Ben gained 4 M€
+Ben placed greenery tile at 22
+Ben gained 1 plant
+Anna played Shuttles
+Anna gained 2 M€ production
+Anna lost 1 energy production
+Anna played AI Central
+Anna lost 1 energy production
+Carl played Zeppelins
+Carl gained 7 M€ production
+Carl used Convert Plants standard action
+Carl placed greenery tile at 36
+Carl gained 2 plants
+Carl gained 6 M€ from 3 ocean(s)
+Diana used Convert Plants standard action
+Diana placed greenery tile at 38
+Diana gained 1 plant
+Diana played Release of Inert Gases
+Ben used Sell Patents standard project
+Ben sold 2 patents
+Ben used Power Plant:SP standard project
+Anna played Mohole Area
+Anna gained 4 heat production
+Anna placed Mohole Area tile at 06
+Anna drew 1 card(s)
+You drew Geothermal Power
+Anna used AI Central action
+Anna drew 2 card(s)
+You drew Greenhouses,Subterranean Reservoir
+Carl used Martian Rails action
+Carl gained 7 M€
+Carl used Greenery standard project
+Carl placed greenery tile at 26
+Carl gained 1 plant
+Carl gained 2 M€ from 1 ocean(s)
+Diana played Phobos Space Haven
+Diana gained 1 titanium production
+Carl gained 1 M€ production
+Anna gained 2 M€
+Diana used Equatorial Magnetizer action
+Diana lost 1 energy production
+Ben passed
+Anna used Sell Patents standard project
+Anna sold 6 patents
+Anna used Convert Heat standard action
+Carl used Asteroid:SP standard project
+Carl passed
+Diana used Nitrite Reducing Bacteria action
+Diana added 1 Microbe to Nitrite Reducing Bacteria
+Diana used Sell Patents standard project
+Diana sold 1 patents
+Anna played Greenhouses
+Anna gained 9 plants
+Anna used Convert Plants standard action
+Anna placed greenery tile at 29
+Anna gained 2 plants
+Diana used Business Network action
+Diana bought 0 card(s)
+Diana ended turn
+Anna used Convert Plants standard action
+Anna placed greenery tile at 14
+The project discard pile has been shuffled to form a new deck.
+Anna drew 1 card(s)
+You drew Capital
+Anna passed
+Diana passed
+Final greenery placement
+Carl placed greenery tile at 27
+Carl gained 1 plant
+Carl gained 2 M€ from 1 ocean(s)
+Ben placed greenery tile at 41
+Ben gained 1 plant
+Ben gained 2 M€ from 1 ocean(s)
+This game id was <gameId>

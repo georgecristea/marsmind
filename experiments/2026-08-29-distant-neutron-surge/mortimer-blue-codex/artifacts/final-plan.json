@@ -1,0 +1,117 @@
+{
+  "generation": 12,
+  "draft": false,
+  "threats": "Maxwell trails on live score but can finish parameters. Mortimer forces the game to the brink with GHG, Giant Ice Asteroid, heat, Eos Chasma, and the final oxygen greenery.",
+  "feedCursor": 292,
+  "steps": [
+    {
+      "id": "1a",
+      "summary": "USE Extreme-Cold Fungus branch 0; GHG microbes 1->3.",
+      "volatility": "safe",
+      "events": [
+        {
+          "method": "use_action",
+          "args": [
+            "Extreme-Cold Fungus"
+          ],
+          "kwargs": {
+            "choice": 0
+          }
+        }
+      ],
+      "done": true
+    },
+    {
+      "id": "1b",
+      "summary": "USE GHG branch 0; microbes 3->1; temp -2->0C; TR 50->51.",
+      "volatility": "safe",
+      "events": [
+        {
+          "method": "use_action",
+          "args": [
+            "GHG Producing Bacteria"
+          ],
+          "kwargs": {
+            "choice": 0
+          }
+        }
+      ],
+      "done": true
+    },
+    {
+      "id": "2a",
+      "summary": "PLAY Giant Ice Asteroid (35 MC); MC 54->19->21; temp 0->4C; oceans 7->9; TR 52->56; oceans 06/07; gain 1 titanium; remove 4 Maxwell plants.",
+      "volatility": "recheck",
+      "cue": "blue oceans on app hexes A4 and A5; Mortimer has 21 MC, TR 56, max oceans, temp 4C; Maxwell has zero plants",
+      "events": [
+        {
+          "method": "play",
+          "args": [
+            "Mortimer",
+            "Giant Ice Asteroid"
+          ],
+          "kwargs": {
+            "cost": 35
+          }
+        },
+        {
+          "method": "place",
+          "args": [
+            "Mortimer",
+            "ocean",
+            "06"
+          ]
+        },
+        {
+          "method": "place",
+          "args": [
+            "Mortimer",
+            "ocean",
+            "07"
+          ]
+        }
+      ],
+      "done": true,
+      "mapHighlight": "06"
+    },
+    {
+      "id": "2b",
+      "summary": "CONVERT 8 heat; heat 9->1; temp 4->6C; TR 56->57.",
+      "volatility": "safe",
+      "events": [
+        {
+          "method": "convert",
+          "args": [
+            "Mortimer",
+            "heat"
+          ]
+        }
+      ],
+      "done": true
+    },
+    {
+      "id": "3a",
+      "summary": "SP ASTEROID (14 MC); MC 23->9; temp 6->8C max; TR 57->58; all global parameters max.",
+      "volatility": "safe",
+      "events": [
+        {
+          "method": "standard",
+          "args": [
+            "Mortimer",
+            "asteroid"
+          ]
+        }
+      ],
+      "done": true
+    },
+    {
+      "id": "3b",
+      "summary": "Pass; all global parameters are maxed.",
+      "volatility": "safe",
+      "passGate": true,
+      "force": "all global parameters are maxed; remaining cards are unaffordable or lower-value and no conversion is available",
+      "events": [],
+      "done": true
+    }
+  ]
+}

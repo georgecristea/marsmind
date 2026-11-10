@@ -1,0 +1,374 @@
+{"ts": 1788011992.248016, "phase": "execute", "edge": "start", "gen": 1, "note": ""}
+{"ts": 1788011992.368661, "phase": "execute", "edge": "end", "gen": 1, "note": "corp Mohole Area Energy Tapping Noctis City Towing A Comet rc=0"}
+{"ts": 1788012014.485474, "phase": "listen", "edge": "start", "gen": 1, "note": ""}
+{"ts": 1788012014.618796, "phase": "listen", "edge": "end", "gen": 1, "note": "10 entries"}
+{"ts": 1788012085.771826, "phase": "sweep", "edge": "start", "gen": 1, "note": ""}
+{"ts": 1788012085.790793, "phase": "sweep", "edge": "end", "gen": 1, "note": "lines 10"}
+{"ts": 1788012278.413224, "phase": "listen", "edge": "start", "gen": 1, "note": ""}
+{"ts": 1788012278.521655, "phase": "listen", "edge": "end", "gen": 1, "note": "1 entries"}
+{"ts": 1788012280.568212, "phase": "listen", "edge": "start", "gen": 1, "note": ""}
+{"ts": 1788012280.694368, "phase": "listen", "edge": "end", "gen": 1, "note": "3 entries"}
+{"ts": 1788012281.744246, "phase": "listen", "edge": "start", "gen": 1, "note": ""}
+{"ts": 1788012281.969475, "phase": "listen", "edge": "end", "gen": 1, "note": "3 entries GO"}
+{"ts": 1788012323.343033, "phase": "listen", "edge": "start", "gen": 1, "note": ""}
+{"ts": 1788012323.518365, "phase": "listen", "edge": "start", "gen": 1, "note": ""}
+{"ts": 1788012323.68589, "phase": "listen", "edge": "end", "gen": 1, "note": "0 entries GO"}
+{"ts": 1788012323.720392, "phase": "listen", "edge": "end", "gen": 1, "note": ""}
+{"ts": 1788012323.738056, "phase": "promote", "edge": "start", "gen": 1, "note": ""}
+{"ts": 1788012323.779004, "phase": "promote", "edge": "end", "gen": 1, "note": ""}
+{"ts": 1788012323.891723, "phase": "execute", "edge": "start", "gen": 1, "note": ""}
+{"ts": 1788012324.176009, "phase": "execute", "edge": "end", "gen": 1, "note": "step 1a rc=0"}
+{"ts": 1788012364.218445, "phase": "listen", "edge": "start", "gen": 1, "note": ""}
+{"ts": 1788012364.487561, "phase": "listen", "edge": "end", "gen": 1, "note": "5 entries"}
+{"ts": 1788012420.841471, "phase": "listen", "edge": "start", "gen": 1, "note": ""}
+{"ts": 1788012421.033422, "phase": "listen", "edge": "end", "gen": 1, "note": "2 entries GO"}
+{"ts": 1788012445.166287, "phase": "execute", "edge": "start", "gen": 1, "note": ""}
+{"ts": 1788012445.311091, "phase": "execute", "edge": "end", "gen": 1, "note": "step 3a rc=0"}
+{"ts": 1788012457.708779, "phase": "listen", "edge": "start", "gen": 1, "note": ""}
+{"ts": 1788012457.883503, "phase": "listen", "edge": "end", "gen": 2, "note": "3 entries GO"}
+{"ts": 1788012577.395027, "phase": "execute", "edge": "start", "gen": 2, "note": ""}
+{"ts": 1788012577.509373, "phase": "execute", "edge": "end", "gen": 2, "note": "pick rc=0"}
+{"ts": 1788012602.270428, "phase": "listen", "edge": "start", "gen": 2, "note": ""}
+{"ts": 1788012602.390871, "phase": "listen", "edge": "start", "gen": 2, "note": ""}
+{"ts": 1788012602.510582, "phase": "listen", "edge": "end", "gen": 2, "note": "2 entries GO"}
+{"ts": 1788012602.547847, "phase": "listen", "edge": "end", "gen": 2, "note": ""}
+{"ts": 1788012602.565278, "phase": "promote", "edge": "start", "gen": 2, "note": ""}
+{"ts": 1788012602.645731, "phase": "promote", "edge": "end", "gen": 2, "note": ""}
+{"ts": 1788012602.746896, "phase": "execute", "edge": "start", "gen": 2, "note": ""}
+{"ts": 1788012603.307205, "phase": "execute", "edge": "end", "gen": 2, "note": "turn 1a 1b rc=0"}
+{"ts": 1788012613.453313, "phase": "listen", "edge": "start", "gen": 2, "note": ""}
+{"ts": 1788012613.625906, "phase": "listen", "edge": "end", "gen": 2, "note": "8 entries"}
+{"ts": 1788012678.251811, "phase": "listen", "edge": "start", "gen": 2, "note": ""}
+{"ts": 1788012678.438812, "phase": "listen", "edge": "end", "gen": 2, "note": "2 entries"}
+{"ts": 1788012680.514527, "phase": "listen", "edge": "start", "gen": 2, "note": ""}
+{"ts": 1788012680.586399, "phase": "listen", "edge": "end", "gen": 2, "note": "3 entries"}
+{"ts": 1788012682.663121, "phase": "listen", "edge": "start", "gen": 2, "note": ""}
+{"ts": 1788012682.817818, "phase": "listen", "edge": "end", "gen": 2, "note": "1 entries GO"}
+{"ts": 1788012699.658283, "phase": "sweep", "edge": "start", "gen": 2, "note": ""}
+{"ts": 1788012699.680405, "phase": "sweep", "edge": "end", "gen": 2, "note": "lines 33"}
+{"ts": 1788012721.782317, "phase": "execute", "edge": "start", "gen": 2, "note": ""}
+{"ts": 1788012722.178835, "phase": "execute", "edge": "end", "gen": 2, "note": "turn 2a 3a rc=0"}
+{"ts": 1788012731.710344, "phase": "listen", "edge": "start", "gen": 2, "note": ""}
+{"ts": 1788012731.9213, "phase": "listen", "edge": "end", "gen": 2, "note": "3 entries"}
+{"ts": 1788012778.208291, "phase": "listen", "edge": "start", "gen": 2, "note": ""}
+{"ts": 1788012778.374186, "phase": "listen", "edge": "end", "gen": 3, "note": "6 entries GO"}
+{"ts": 1788012852.629056, "phase": "execute", "edge": "start", "gen": 3, "note": ""}
+{"ts": 1788012852.723049, "phase": "execute", "edge": "end", "gen": 3, "note": "pick Ecological Zone rc=0"}
+{"ts": 1788012861.604752, "phase": "listen", "edge": "start", "gen": 3, "note": ""}
+{"ts": 1788012861.663531, "phase": "listen", "edge": "end", "gen": 3, "note": "2 entries"}
+{"ts": 1788012918.035346, "phase": "listen", "edge": "start", "gen": 3, "note": ""}
+{"ts": 1788012918.098876, "phase": "listen", "edge": "end", "gen": 3, "note": "1 entries"}
+{"ts": 1788012928.328306, "phase": "listen", "edge": "start", "gen": 3, "note": ""}
+{"ts": 1788012928.467321, "phase": "listen", "edge": "end", "gen": 3, "note": "2 entries"}
+{"ts": 1788012944.711295, "phase": "listen", "edge": "start", "gen": 3, "note": ""}
+{"ts": 1788012944.820197, "phase": "listen", "edge": "end", "gen": 3, "note": "1 entries GO"}
+{"ts": 1788012970.559791, "phase": "listen", "edge": "start", "gen": 3, "note": ""}
+{"ts": 1788012970.666962, "phase": "listen", "edge": "start", "gen": 3, "note": ""}
+{"ts": 1788012970.793469, "phase": "listen", "edge": "end", "gen": 3, "note": "0 entries GO"}
+{"ts": 1788012970.824851, "phase": "listen", "edge": "end", "gen": 3, "note": ""}
+{"ts": 1788012970.837823, "phase": "promote", "edge": "start", "gen": 3, "note": ""}
+{"ts": 1788012970.901666, "phase": "promote", "edge": "end", "gen": 3, "note": ""}
+{"ts": 1788012971.012861, "phase": "execute", "edge": "start", "gen": 3, "note": ""}
+{"ts": 1788012971.805407, "phase": "execute", "edge": "end", "gen": 3, "note": "turn 1a 1b 2a 3a rc=0"}
+{"ts": 1788012982.678663, "phase": "listen", "edge": "start", "gen": 3, "note": ""}
+{"ts": 1788012983.043061, "phase": "listen", "edge": "end", "gen": 4, "note": "12 entries GO"}
+{"ts": 1788013052.737573, "phase": "execute", "edge": "start", "gen": 4, "note": ""}
+{"ts": 1788013052.810099, "phase": "execute", "edge": "end", "gen": 4, "note": "pick Research Outpost Imported Nitrogen rc=0"}
+{"ts": 1788013066.585555, "phase": "listen", "edge": "start", "gen": 4, "note": ""}
+{"ts": 1788013066.66207, "phase": "listen", "edge": "end", "gen": 4, "note": "2 entries"}
+{"ts": 1788013184.891915, "phase": "listen", "edge": "start", "gen": 4, "note": ""}
+{"ts": 1788013185.057238, "phase": "listen", "edge": "end", "gen": 4, "note": "1 entries GO"}
+{"ts": 1788013207.362373, "phase": "listen", "edge": "start", "gen": 4, "note": ""}
+{"ts": 1788013207.472902, "phase": "listen", "edge": "start", "gen": 4, "note": ""}
+{"ts": 1788013207.630828, "phase": "listen", "edge": "end", "gen": 4, "note": "0 entries GO"}
+{"ts": 1788013207.653913, "phase": "listen", "edge": "end", "gen": 4, "note": ""}
+{"ts": 1788013207.660051, "phase": "promote", "edge": "start", "gen": 4, "note": ""}
+{"ts": 1788013207.702595, "phase": "promote", "edge": "end", "gen": 4, "note": ""}
+{"ts": 1788013207.812379, "phase": "execute", "edge": "start", "gen": 4, "note": ""}
+{"ts": 1788013208.250143, "phase": "execute", "edge": "end", "gen": 4, "note": "turn 1a 1b rc=0"}
+{"ts": 1788013217.049515, "phase": "listen", "edge": "start", "gen": 4, "note": ""}
+{"ts": 1788013217.630881, "phase": "listen", "edge": "end", "gen": 4, "note": "4 entries"}
+{"ts": 1788013243.888657, "phase": "listen", "edge": "start", "gen": 4, "note": ""}
+{"ts": 1788013244.260464, "phase": "listen", "edge": "end", "gen": 4, "note": "2 entries"}
+{"ts": 1788013357.02701, "phase": "listen", "edge": "start", "gen": 4, "note": ""}
+{"ts": 1788013357.244403, "phase": "listen", "edge": "end", "gen": 4, "note": "6 entries"}
+{"ts": 1788013373.421101, "phase": "listen", "edge": "start", "gen": 4, "note": ""}
+{"ts": 1788013373.56333, "phase": "listen", "edge": "end", "gen": 5, "note": "3 entries GO"}
+{"ts": 1788013464.033969, "phase": "execute", "edge": "start", "gen": 5, "note": ""}
+{"ts": 1788013464.130672, "phase": "execute", "edge": "end", "gen": 5, "note": "pick Business Contacts rc=0"}
+{"ts": 1788013473.451287, "phase": "listen", "edge": "start", "gen": 5, "note": ""}
+{"ts": 1788013473.56306, "phase": "listen", "edge": "end", "gen": 5, "note": "2 entries"}
+{"ts": 1788013627.028583, "phase": "listen", "edge": "start", "gen": 5, "note": ""}
+{"ts": 1788013627.222398, "phase": "listen", "edge": "end", "gen": 5, "note": "1 entries"}
+{"ts": 1788013629.290308, "phase": "listen", "edge": "start", "gen": 5, "note": ""}
+{"ts": 1788013629.417262, "phase": "listen", "edge": "end", "gen": 5, "note": "1 entries"}
+{"ts": 1788013633.565433, "phase": "listen", "edge": "start", "gen": 5, "note": ""}
+{"ts": 1788013633.722253, "phase": "listen", "edge": "end", "gen": 5, "note": "1 entries GO"}
+{"ts": 1788013650.917477, "phase": "sweep", "edge": "start", "gen": 5, "note": ""}
+{"ts": 1788013650.951291, "phase": "sweep", "edge": "end", "gen": 5, "note": "lines 50"}
+{"ts": 1788013667.415796, "phase": "listen", "edge": "start", "gen": 5, "note": ""}
+{"ts": 1788013667.540628, "phase": "listen", "edge": "start", "gen": 5, "note": ""}
+{"ts": 1788013667.589222, "phase": "listen", "edge": "end", "gen": 5, "note": "0 entries GO"}
+{"ts": 1788013667.61008, "phase": "listen", "edge": "end", "gen": 5, "note": ""}
+{"ts": 1788013667.615758, "phase": "promote", "edge": "start", "gen": 5, "note": ""}
+{"ts": 1788013667.677906, "phase": "promote", "edge": "end", "gen": 5, "note": ""}
+{"ts": 1788013667.785423, "phase": "execute", "edge": "start", "gen": 5, "note": ""}
+{"ts": 1788013668.042136, "phase": "execute", "edge": "end", "gen": 5, "note": "turn 1a 1b rc=40"}
+{"ts": 1788013735.858438, "phase": "execute", "edge": "start", "gen": 5, "note": ""}
+{"ts": 1788013736.100813, "phase": "execute", "edge": "end", "gen": 5, "note": "resolve 1b rc=0"}
+{"ts": 1788013756.402722, "phase": "listen", "edge": "start", "gen": 5, "note": ""}
+{"ts": 1788013756.49122, "phase": "listen", "edge": "end", "gen": 5, "note": "6 entries"}
+{"ts": 1788013812.837209, "phase": "listen", "edge": "start", "gen": 5, "note": ""}
+{"ts": 1788013813.083391, "phase": "listen", "edge": "end", "gen": 5, "note": "2 entries GO"}
+{"ts": 1788013829.52753, "phase": "execute", "edge": "start", "gen": 5, "note": ""}
+{"ts": 1788013830.515389, "phase": "execute", "edge": "end", "gen": 5, "note": "turn 2a 2b 3a 4a rc=0"}
+{"ts": 1788013845.958858, "phase": "listen", "edge": "start", "gen": 5, "note": ""}
+{"ts": 1788013846.184868, "phase": "listen", "edge": "end", "gen": 6, "note": "10 entries GO"}
+{"ts": 1788013980.386408, "phase": "execute", "edge": "start", "gen": 6, "note": ""}
+{"ts": 1788013980.563856, "phase": "execute", "edge": "end", "gen": 6, "note": "pick GHG Producing Bacteria rc=0"}
+{"ts": 1788013998.396451, "phase": "listen", "edge": "start", "gen": 6, "note": ""}
+{"ts": 1788013998.529372, "phase": "listen", "edge": "start", "gen": 6, "note": ""}
+{"ts": 1788013998.724306, "phase": "listen", "edge": "end", "gen": 6, "note": "3 entries GO"}
+{"ts": 1788013998.758422, "phase": "listen", "edge": "end", "gen": 6, "note": ""}
+{"ts": 1788013998.765498, "phase": "promote", "edge": "start", "gen": 6, "note": ""}
+{"ts": 1788013998.852224, "phase": "promote", "edge": "end", "gen": 6, "note": ""}
+{"ts": 1788013998.964994, "phase": "execute", "edge": "start", "gen": 6, "note": ""}
+{"ts": 1788013999.195597, "phase": "execute", "edge": "end", "gen": 6, "note": "step 1a rc=0"}
+{"ts": 1788014007.627461, "phase": "execute", "edge": "start", "gen": 6, "note": ""}
+{"ts": 1788014007.858597, "phase": "execute", "edge": "end", "gen": 6, "note": "step 1b rc=0"}
+{"ts": 1788014014.036496, "phase": "listen", "edge": "start", "gen": 6, "note": ""}
+{"ts": 1788014014.292728, "phase": "listen", "edge": "end", "gen": 6, "note": "7 entries"}
+{"ts": 1788014113.718528, "phase": "listen", "edge": "start", "gen": 6, "note": ""}
+{"ts": 1788014113.912128, "phase": "listen", "edge": "end", "gen": 6, "note": "1 entries"}
+{"ts": 1788014118.06816, "phase": "listen", "edge": "start", "gen": 6, "note": ""}
+{"ts": 1788014118.203083, "phase": "listen", "edge": "end", "gen": 6, "note": "1 entries GO"}
+{"ts": 1788014127.790581, "phase": "sweep", "edge": "start", "gen": 6, "note": ""}
+{"ts": 1788014127.805593, "phase": "sweep", "edge": "end", "gen": 6, "note": "lines 30"}
+{"ts": 1788014141.025128, "phase": "execute", "edge": "start", "gen": 6, "note": ""}
+{"ts": 1788014141.370133, "phase": "execute", "edge": "end", "gen": 6, "note": "turn 2a 2b rc=0"}
+{"ts": 1788014148.794448, "phase": "listen", "edge": "start", "gen": 6, "note": ""}
+{"ts": 1788014149.019066, "phase": "listen", "edge": "end", "gen": 6, "note": "4 entries"}
+{"ts": 1788014165.2781, "phase": "listen", "edge": "start", "gen": 6, "note": ""}
+{"ts": 1788014165.395969, "phase": "listen", "edge": "end", "gen": 6, "note": "1 entries GO"}
+{"ts": 1788014186.805272, "phase": "execute", "edge": "start", "gen": 6, "note": ""}
+{"ts": 1788014186.963142, "phase": "execute", "edge": "end", "gen": 6, "note": "step 3a rc=0"}
+{"ts": 1788014219.591323, "phase": "listen", "edge": "start", "gen": 6, "note": ""}
+{"ts": 1788014219.825135, "phase": "listen", "edge": "end", "gen": 7, "note": "3 entries GO"}
+{"ts": 1788014271.039654, "phase": "execute", "edge": "start", "gen": 7, "note": ""}
+{"ts": 1788014271.210048, "phase": "execute", "edge": "end", "gen": 7, "note": "pick Deep Well Heating Insects rc=0"}
+{"ts": 1788014323.117125, "phase": "listen", "edge": "start", "gen": 7, "note": ""}
+{"ts": 1788014323.265439, "phase": "listen", "edge": "end", "gen": 7, "note": "3 entries"}
+{"ts": 1788014393.094211, "phase": "listen", "edge": "start", "gen": 7, "note": ""}
+{"ts": 1788014393.377091, "phase": "listen", "edge": "end", "gen": 7, "note": "5 entries"}
+{"ts": 1788014394.431051, "phase": "listen", "edge": "start", "gen": 7, "note": ""}
+{"ts": 1788014394.502495, "phase": "listen", "edge": "end", "gen": 7, "note": "0 entries GO"}
+{"ts": 1788014413.646574, "phase": "sweep", "edge": "start", "gen": 7, "note": ""}
+{"ts": 1788014413.664733, "phase": "sweep", "edge": "end", "gen": 7, "note": "lines 16"}
+{"ts": 1788014428.332537, "phase": "listen", "edge": "start", "gen": 7, "note": ""}
+{"ts": 1788014428.444684, "phase": "listen", "edge": "start", "gen": 7, "note": ""}
+{"ts": 1788014428.514553, "phase": "listen", "edge": "end", "gen": 7, "note": "0 entries GO"}
+{"ts": 1788014428.535682, "phase": "listen", "edge": "end", "gen": 7, "note": ""}
+{"ts": 1788014428.547753, "phase": "promote", "edge": "start", "gen": 7, "note": ""}
+{"ts": 1788014428.59463, "phase": "promote", "edge": "end", "gen": 7, "note": ""}
+{"ts": 1788014428.696365, "phase": "execute", "edge": "start", "gen": 7, "note": ""}
+{"ts": 1788014429.012401, "phase": "execute", "edge": "end", "gen": 7, "note": "turn 1a 1b rc=0"}
+{"ts": 1788014436.631693, "phase": "listen", "edge": "start", "gen": 7, "note": ""}
+{"ts": 1788014436.785728, "phase": "listen", "edge": "end", "gen": 7, "note": "4 entries"}
+{"ts": 1788014444.996501, "phase": "listen", "edge": "start", "gen": 7, "note": ""}
+{"ts": 1788014445.203742, "phase": "listen", "edge": "end", "gen": 7, "note": "1 entries"}
+{"ts": 1788014461.463421, "phase": "listen", "edge": "start", "gen": 7, "note": ""}
+{"ts": 1788014461.555731, "phase": "listen", "edge": "end", "gen": 7, "note": "1 entries GO"}
+{"ts": 1788014479.765945, "phase": "sweep", "edge": "start", "gen": 7, "note": ""}
+{"ts": 1788014479.781021, "phase": "sweep", "edge": "end", "gen": 7, "note": "lines 6"}
+{"ts": 1788014495.670573, "phase": "execute", "edge": "start", "gen": 7, "note": ""}
+{"ts": 1788014496.093294, "phase": "execute", "edge": "end", "gen": 7, "note": "turn 2a 3a rc=0"}
+{"ts": 1788014528.37629, "phase": "listen", "edge": "start", "gen": 7, "note": ""}
+{"ts": 1788014528.649812, "phase": "listen", "edge": "end", "gen": 8, "note": "5 entries GO"}
+{"ts": 1788014633.994039, "phase": "execute", "edge": "start", "gen": 8, "note": ""}
+{"ts": 1788014634.112628, "phase": "execute", "edge": "end", "gen": 8, "note": "pick Immigrant City Protected Valley rc=0"}
+{"ts": 1788014650.104192, "phase": "listen", "edge": "start", "gen": 8, "note": ""}
+{"ts": 1788014650.228675, "phase": "listen", "edge": "start", "gen": 8, "note": ""}
+{"ts": 1788014650.349115, "phase": "listen", "edge": "end", "gen": 8, "note": "3 entries GO"}
+{"ts": 1788014650.379941, "phase": "listen", "edge": "end", "gen": 8, "note": ""}
+{"ts": 1788014650.391628, "phase": "promote", "edge": "start", "gen": 8, "note": ""}
+{"ts": 1788014650.52507, "phase": "promote", "edge": "end", "gen": 8, "note": ""}
+{"ts": 1788014650.642307, "phase": "execute", "edge": "start", "gen": 8, "note": ""}
+{"ts": 1788014650.730063, "phase": "execute", "edge": "end", "gen": 8, "note": "turn 1a 1b rc=40"}
+{"ts": 1788014669.101913, "phase": "execute", "edge": "start", "gen": 8, "note": ""}
+{"ts": 1788014669.496921, "phase": "execute", "edge": "end", "gen": 8, "note": "turn 1a 1b rc=0"}
+{"ts": 1788014678.277942, "phase": "listen", "edge": "start", "gen": 8, "note": ""}
+{"ts": 1788014678.56544, "phase": "listen", "edge": "end", "gen": 8, "note": "6 entries"}
+{"ts": 1788014694.774681, "phase": "listen", "edge": "start", "gen": 8, "note": ""}
+{"ts": 1788014694.904224, "phase": "listen", "edge": "end", "gen": 8, "note": "1 entries"}
+{"ts": 1788014739.834271, "phase": "sweep", "edge": "start", "gen": 8, "note": ""}
+{"ts": 1788014739.850372, "phase": "sweep", "edge": "end", "gen": 8, "note": "lines 15"}
+{"ts": 1788014799.670694, "phase": "listen", "edge": "start", "gen": 8, "note": ""}
+{"ts": 1788014799.793414, "phase": "listen", "edge": "end", "gen": 8, "note": "2 entries GO"}
+{"ts": 1788014811.922149, "phase": "execute", "edge": "start", "gen": 8, "note": ""}
+{"ts": 1788014812.595168, "phase": "execute", "edge": "end", "gen": 8, "note": "turn 2a 2b rc=0"}
+{"ts": 1788014820.090972, "phase": "listen", "edge": "start", "gen": 8, "note": ""}
+{"ts": 1788014820.229934, "phase": "listen", "edge": "end", "gen": 8, "note": "9 entries"}
+{"ts": 1788014822.310334, "phase": "listen", "edge": "start", "gen": 8, "note": ""}
+{"ts": 1788014822.448094, "phase": "listen", "edge": "end", "gen": 8, "note": "1 entries"}
+{"ts": 1788014826.562444, "phase": "listen", "edge": "start", "gen": 8, "note": ""}
+{"ts": 1788014826.746621, "phase": "listen", "edge": "end", "gen": 8, "note": "2 entries GO"}
+{"ts": 1788014844.496333, "phase": "execute", "edge": "start", "gen": 8, "note": ""}
+{"ts": 1788014844.837632, "phase": "execute", "edge": "end", "gen": 8, "note": "step 3a rc=0"}
+{"ts": 1788014862.975749, "phase": "execute", "edge": "start", "gen": 8, "note": ""}
+{"ts": 1788014863.237153, "phase": "execute", "edge": "end", "gen": 8, "note": "step 4a rc=0"}
+{"ts": 1788014879.895533, "phase": "listen", "edge": "start", "gen": 8, "note": ""}
+{"ts": 1788014880.066698, "phase": "listen", "edge": "end", "gen": 9, "note": "8 entries GO"}
+{"ts": 1788014976.394294, "phase": "execute", "edge": "start", "gen": 9, "note": ""}
+{"ts": 1788014976.469922, "phase": "execute", "edge": "end", "gen": 9, "note": "pick Extreme-Cold Fungus Convoy From Europa Lava Flows rc=0"}
+{"ts": 1788014984.720399, "phase": "listen", "edge": "start", "gen": 9, "note": ""}
+{"ts": 1788014984.889642, "phase": "listen", "edge": "end", "gen": 9, "note": "3 entries"}
+{"ts": 1788014988.988458, "phase": "listen", "edge": "start", "gen": 9, "note": ""}
+{"ts": 1788014989.140126, "phase": "listen", "edge": "end", "gen": 9, "note": "1 entries"}
+{"ts": 1788014990.194217, "phase": "listen", "edge": "start", "gen": 9, "note": ""}
+{"ts": 1788014990.327901, "phase": "listen", "edge": "end", "gen": 9, "note": "1 entries"}
+{"ts": 1788014994.443924, "phase": "listen", "edge": "start", "gen": 9, "note": ""}
+{"ts": 1788014994.55448, "phase": "listen", "edge": "end", "gen": 9, "note": "1 entries GO"}
+{"ts": 1788015004.854673, "phase": "sweep", "edge": "start", "gen": 9, "note": ""}
+{"ts": 1788015004.870272, "phase": "sweep", "edge": "end", "gen": 9, "note": "lines 28"}
+{"ts": 1788015036.619073, "phase": "listen", "edge": "start", "gen": 9, "note": ""}
+{"ts": 1788015036.732359, "phase": "listen", "edge": "start", "gen": 9, "note": ""}
+{"ts": 1788015036.868668, "phase": "listen", "edge": "end", "gen": 9, "note": "0 entries GO"}
+{"ts": 1788015036.902223, "phase": "listen", "edge": "end", "gen": 9, "note": ""}
+{"ts": 1788015036.911906, "phase": "promote", "edge": "start", "gen": 9, "note": ""}
+{"ts": 1788015036.996202, "phase": "promote", "edge": "end", "gen": 9, "note": ""}
+{"ts": 1788015037.098241, "phase": "execute", "edge": "start", "gen": 9, "note": ""}
+{"ts": 1788015037.591385, "phase": "execute", "edge": "end", "gen": 9, "note": "turn 1a 1b rc=0"}
+{"ts": 1788015045.057661, "phase": "listen", "edge": "start", "gen": 9, "note": ""}
+{"ts": 1788015045.207005, "phase": "listen", "edge": "end", "gen": 9, "note": "6 entries"}
+{"ts": 1788015053.375658, "phase": "listen", "edge": "start", "gen": 9, "note": ""}
+{"ts": 1788015053.490187, "phase": "listen", "edge": "end", "gen": 9, "note": "1 entries"}
+{"ts": 1788015054.551283, "phase": "listen", "edge": "start", "gen": 9, "note": ""}
+{"ts": 1788015054.681853, "phase": "listen", "edge": "end", "gen": 9, "note": "2 entries GO"}
+{"ts": 1788015064.232831, "phase": "execute", "edge": "start", "gen": 9, "note": ""}
+{"ts": 1788015064.710702, "phase": "execute", "edge": "end", "gen": 9, "note": "turn 2a 2b rc=0"}
+{"ts": 1788015071.601453, "phase": "listen", "edge": "start", "gen": 9, "note": ""}
+{"ts": 1788015071.815675, "phase": "listen", "edge": "end", "gen": 9, "note": "3 entries"}
+{"ts": 1788015098.062297, "phase": "listen", "edge": "start", "gen": 9, "note": ""}
+{"ts": 1788015098.210122, "phase": "listen", "edge": "end", "gen": 9, "note": "2 entries"}
+{"ts": 1788015124.439552, "phase": "listen", "edge": "start", "gen": 9, "note": ""}
+{"ts": 1788015124.716345, "phase": "listen", "edge": "end", "gen": 9, "note": "2 entries GO"}
+{"ts": 1788015138.950536, "phase": "execute", "edge": "start", "gen": 9, "note": ""}
+{"ts": 1788015139.177323, "phase": "execute", "edge": "end", "gen": 9, "note": "step 3a rc=0"}
+{"ts": 1788015155.622428, "phase": "execute", "edge": "start", "gen": 9, "note": ""}
+{"ts": 1788015155.862113, "phase": "execute", "edge": "end", "gen": 9, "note": "step 4a rc=0"}
+{"ts": 1788015168.831062, "phase": "listen", "edge": "start", "gen": 9, "note": ""}
+{"ts": 1788015169.011396, "phase": "listen", "edge": "end", "gen": 10, "note": "7 entries GO"}
+{"ts": 1788015295.424926, "phase": "execute", "edge": "start", "gen": 10, "note": ""}
+{"ts": 1788015295.633368, "phase": "execute", "edge": "end", "gen": 10, "note": "pick Local Heat Trapping rc=0"}
+{"ts": 1788015365.11648, "phase": "listen", "edge": "start", "gen": 10, "note": ""}
+{"ts": 1788015365.29867, "phase": "listen", "edge": "start", "gen": 10, "note": ""}
+{"ts": 1788015365.504725, "phase": "listen", "edge": "end", "gen": 10, "note": "3 entries GO"}
+{"ts": 1788015365.524729, "phase": "listen", "edge": "end", "gen": 10, "note": ""}
+{"ts": 1788015365.530635, "phase": "promote", "edge": "start", "gen": 10, "note": ""}
+{"ts": 1788015365.692893, "phase": "promote", "edge": "end", "gen": 10, "note": ""}
+{"ts": 1788015365.80201, "phase": "execute", "edge": "start", "gen": 10, "note": ""}
+{"ts": 1788015366.312073, "phase": "execute", "edge": "end", "gen": 10, "note": "turn 1a 1b rc=0"}
+{"ts": 1788015373.686644, "phase": "listen", "edge": "start", "gen": 10, "note": ""}
+{"ts": 1788015373.908212, "phase": "listen", "edge": "end", "gen": 10, "note": "4 entries"}
+{"ts": 1788015400.158134, "phase": "listen", "edge": "start", "gen": 10, "note": ""}
+{"ts": 1788015400.335442, "phase": "listen", "edge": "end", "gen": 10, "note": "2 entries"}
+{"ts": 1788015402.522974, "phase": "listen", "edge": "start", "gen": 10, "note": ""}
+{"ts": 1788015402.65738, "phase": "listen", "edge": "end", "gen": 10, "note": "1 entries"}
+{"ts": 1788015404.709657, "phase": "listen", "edge": "start", "gen": 10, "note": ""}
+{"ts": 1788015404.882055, "phase": "listen", "edge": "end", "gen": 10, "note": "2 entries"}
+{"ts": 1788015431.046916, "phase": "listen", "edge": "start", "gen": 10, "note": ""}
+{"ts": 1788015431.189634, "phase": "listen", "edge": "end", "gen": 10, "note": "2 entries GO"}
+{"ts": 1788015450.167637, "phase": "sweep", "edge": "start", "gen": 10, "note": ""}
+{"ts": 1788015450.20252, "phase": "sweep", "edge": "end", "gen": 10, "note": "lines 37"}
+{"ts": 1788015467.129567, "phase": "execute", "edge": "start", "gen": 10, "note": ""}
+{"ts": 1788015467.789757, "phase": "execute", "edge": "end", "gen": 10, "note": "turn 2a 2b rc=0"}
+{"ts": 1788015475.123403, "phase": "listen", "edge": "start", "gen": 10, "note": ""}
+{"ts": 1788015475.267954, "phase": "listen", "edge": "end", "gen": 10, "note": "4 entries"}
+{"ts": 1788015477.35431, "phase": "listen", "edge": "start", "gen": 10, "note": ""}
+{"ts": 1788015477.56373, "phase": "listen", "edge": "end", "gen": 10, "note": "4 entries"}
+{"ts": 1788015481.672941, "phase": "listen", "edge": "start", "gen": 10, "note": ""}
+{"ts": 1788015481.845978, "phase": "listen", "edge": "end", "gen": 10, "note": "2 entries GO"}
+{"ts": 1788015503.490078, "phase": "execute", "edge": "start", "gen": 10, "note": ""}
+{"ts": 1788015503.98779, "phase": "execute", "edge": "end", "gen": 10, "note": "turn 3a 3b rc=0"}
+{"ts": 1788015522.583793, "phase": "listen", "edge": "start", "gen": 10, "note": ""}
+{"ts": 1788015522.732587, "phase": "listen", "edge": "end", "gen": 10, "note": "7 entries"}
+{"ts": 1788015548.927025, "phase": "listen", "edge": "start", "gen": 10, "note": ""}
+{"ts": 1788015549.143421, "phase": "listen", "edge": "end", "gen": 10, "note": "2 entries"}
+{"ts": 1788015565.291429, "phase": "listen", "edge": "start", "gen": 10, "note": ""}
+{"ts": 1788015565.3913, "phase": "listen", "edge": "end", "gen": 10, "note": "1 entries GO"}
+{"ts": 1788015582.360526, "phase": "execute", "edge": "start", "gen": 10, "note": ""}
+{"ts": 1788015582.708197, "phase": "execute", "edge": "end", "gen": 10, "note": "turn 4a 4b rc=0"}
+{"ts": 1788015593.693451, "phase": "execute", "edge": "start", "gen": 10, "note": ""}
+{"ts": 1788015593.969846, "phase": "execute", "edge": "end", "gen": 10, "note": "step 5a rc=0"}
+{"ts": 1788015636.982668, "phase": "listen", "edge": "start", "gen": 10, "note": ""}
+{"ts": 1788015637.158423, "phase": "listen", "edge": "end", "gen": 11, "note": "10 entries GO"}
+{"ts": 1788015688.637703, "phase": "execute", "edge": "start", "gen": 11, "note": ""}
+{"ts": 1788015688.802435, "phase": "execute", "edge": "end", "gen": 11, "note": "pick Comet Investment Loan rc=0"}
+{"ts": 1788015697.563222, "phase": "listen", "edge": "start", "gen": 11, "note": ""}
+{"ts": 1788015697.799981, "phase": "listen", "edge": "end", "gen": 11, "note": "5 entries"}
+{"ts": 1788015699.862354, "phase": "listen", "edge": "start", "gen": 11, "note": ""}
+{"ts": 1788015699.992926, "phase": "listen", "edge": "end", "gen": 11, "note": "1 entries GO"}
+{"ts": 1788015709.952259, "phase": "listen", "edge": "start", "gen": 11, "note": ""}
+{"ts": 1788015710.098675, "phase": "listen", "edge": "start", "gen": 11, "note": ""}
+{"ts": 1788015710.323861, "phase": "listen", "edge": "end", "gen": 11, "note": "0 entries GO"}
+{"ts": 1788015710.3564, "phase": "listen", "edge": "end", "gen": 11, "note": ""}
+{"ts": 1788015710.374603, "phase": "promote", "edge": "start", "gen": 11, "note": ""}
+{"ts": 1788015710.567818, "phase": "promote", "edge": "end", "gen": 11, "note": ""}
+{"ts": 1788015710.726475, "phase": "execute", "edge": "start", "gen": 11, "note": ""}
+{"ts": 1788015711.326109, "phase": "execute", "edge": "end", "gen": 11, "note": "turn 1a 1b rc=0"}
+{"ts": 1788015720.597884, "phase": "listen", "edge": "start", "gen": 11, "note": ""}
+{"ts": 1788015720.828627, "phase": "listen", "edge": "end", "gen": 11, "note": "4 entries"}
+{"ts": 1788015747.172441, "phase": "listen", "edge": "start", "gen": 11, "note": ""}
+{"ts": 1788015747.380653, "phase": "listen", "edge": "end", "gen": 11, "note": "2 entries"}
+{"ts": 1788015749.570573, "phase": "listen", "edge": "start", "gen": 11, "note": ""}
+{"ts": 1788015749.647098, "phase": "listen", "edge": "end", "gen": 11, "note": "2 entries GO"}
+{"ts": 1788015766.911078, "phase": "execute", "edge": "start", "gen": 11, "note": ""}
+{"ts": 1788015767.076157, "phase": "execute", "edge": "end", "gen": 11, "note": "turn 2a 2b rc=40"}
+{"ts": 1788015777.563343, "phase": "execute", "edge": "start", "gen": 11, "note": ""}
+{"ts": 1788015777.778564, "phase": "execute", "edge": "end", "gen": 11, "note": "resolve 2a rc=0"}
+{"ts": 1788015777.881754, "phase": "execute", "edge": "start", "gen": 11, "note": ""}
+{"ts": 1788015778.160466, "phase": "execute", "edge": "end", "gen": 11, "note": "step 2b rc=0"}
+{"ts": 1788015785.825188, "phase": "listen", "edge": "start", "gen": 11, "note": ""}
+{"ts": 1788015785.996113, "phase": "listen", "edge": "end", "gen": 11, "note": "8 entries"}
+{"ts": 1788015790.126631, "phase": "listen", "edge": "start", "gen": 11, "note": ""}
+{"ts": 1788015790.233254, "phase": "listen", "edge": "end", "gen": 11, "note": "1 entries GO"}
+{"ts": 1788015806.75099, "phase": "execute", "edge": "start", "gen": 11, "note": ""}
+{"ts": 1788015807.905392, "phase": "execute", "edge": "end", "gen": 11, "note": "turn 3a 3b 4a 4b 5a rc=0"}
+{"ts": 1788015877.902681, "phase": "listen", "edge": "start", "gen": 11, "note": ""}
+{"ts": 1788015878.214505, "phase": "listen", "edge": "end", "gen": 12, "note": "13 entries GO"}
+{"ts": 1788015939.744082, "phase": "execute", "edge": "start", "gen": 12, "note": ""}
+{"ts": 1788015939.954623, "phase": "execute", "edge": "end", "gen": 12, "note": "pick Giant Ice Asteroid Eos Chasma National Park rc=0"}
+{"ts": 1788015968.269658, "phase": "listen", "edge": "start", "gen": 12, "note": ""}
+{"ts": 1788015968.403414, "phase": "listen", "edge": "start", "gen": 12, "note": ""}
+{"ts": 1788015968.576777, "phase": "listen", "edge": "end", "gen": 12, "note": "3 entries GO"}
+{"ts": 1788015968.620913, "phase": "listen", "edge": "end", "gen": 12, "note": ""}
+{"ts": 1788015968.63438, "phase": "promote", "edge": "start", "gen": 12, "note": ""}
+{"ts": 1788015968.788084, "phase": "promote", "edge": "end", "gen": 12, "note": ""}
+{"ts": 1788015968.905114, "phase": "execute", "edge": "start", "gen": 12, "note": ""}
+{"ts": 1788015969.423703, "phase": "execute", "edge": "end", "gen": 12, "note": "turn 1a 1b rc=40"}
+{"ts": 1788015992.410561, "phase": "execute", "edge": "start", "gen": 12, "note": ""}
+{"ts": 1788015992.719096, "phase": "execute", "edge": "end", "gen": 12, "note": "resolve 1b rc=0"}
+{"ts": 1788016000.716171, "phase": "listen", "edge": "start", "gen": 12, "note": ""}
+{"ts": 1788016000.852658, "phase": "listen", "edge": "end", "gen": 12, "note": "6 entries"}
+{"ts": 1788016017.122682, "phase": "listen", "edge": "start", "gen": 12, "note": ""}
+{"ts": 1788016017.370603, "phase": "listen", "edge": "end", "gen": 12, "note": "4 entries GO"}
+{"ts": 1788016041.628217, "phase": "sweep", "edge": "start", "gen": 12, "note": ""}
+{"ts": 1788016041.6655, "phase": "sweep", "edge": "end", "gen": 12, "note": "lines 79"}
+{"ts": 1788016065.404669, "phase": "execute", "edge": "start", "gen": 12, "note": ""}
+{"ts": 1788016065.582218, "phase": "execute", "edge": "end", "gen": 12, "note": "step 2a rc=40"}
+{"ts": 1788016078.525616, "phase": "execute", "edge": "start", "gen": 12, "note": ""}
+{"ts": 1788016078.631742, "phase": "execute", "edge": "end", "gen": 12, "note": "resolve 2a rc=40"}
+{"ts": 1788016089.401095, "phase": "execute", "edge": "start", "gen": 12, "note": ""}
+{"ts": 1788016089.693325, "phase": "execute", "edge": "end", "gen": 12, "note": "resolve 2a rc=0"}
+{"ts": 1788016089.793611, "phase": "execute", "edge": "start", "gen": 12, "note": ""}
+{"ts": 1788016090.038786, "phase": "execute", "edge": "end", "gen": 12, "note": "turn 2b 3a 3b rc=40"}
+{"ts": 1788016148.090413, "phase": "listen", "edge": "start", "gen": 12, "note": ""}
+{"ts": 1788016148.303584, "phase": "listen", "edge": "end", "gen": 12, "note": "14 entries GO"}
+{"ts": 1788016165.49816, "phase": "execute", "edge": "start", "gen": 12, "note": ""}
+{"ts": 1788016166.001414, "phase": "execute", "edge": "end", "gen": 12, "note": "turn 3a 3b rc=0"}
+{"ts": 1788016175.973761, "phase": "listen", "edge": "start", "gen": 12, "note": ""}
+{"ts": 1788016176.090407, "phase": "listen", "edge": "end", "gen": 12, "note": "4 entries"}
+{"ts": 1788016178.170317, "phase": "listen", "edge": "start", "gen": 12, "note": ""}
+{"ts": 1788016178.31684, "phase": "listen", "edge": "end", "gen": 13, "note": "2 entries GO"}
+{"ts": 1788016217.442422, "phase": "listen", "edge": "start", "gen": 13, "note": ""}
+{"ts": 1788016217.57312, "phase": "listen", "edge": "end", "gen": 13, "note": "3 entries GO"}

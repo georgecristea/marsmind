@@ -1,0 +1,525 @@
+{
+  "generation": 13,
+  "firstPlayer": "Maxwell",
+  "globals": {
+    "temperature": 8,
+    "oxygen": 14,
+    "oceans": 9
+  },
+  "me": {
+    "name": "Maxwell",
+    "corporation": "Mining Guild",
+    "tr": 27,
+    "resources": {
+      "mc": 50,
+      "steel": 10,
+      "titanium": 6,
+      "plants": 5,
+      "energy": 1,
+      "heat": 5
+    },
+    "production": {
+      "mc": 15,
+      "steel": 3,
+      "titanium": 2,
+      "plants": 4,
+      "energy": 1,
+      "heat": 0
+    },
+    "hand": [
+      "Algae",
+      "Mining Expedition",
+      "Building Industries",
+      "Heat Trappers"
+    ],
+    "playedCards": [
+      {
+        "name": "Corporate Stronghold",
+        "gen": 1
+      },
+      {
+        "name": "Earth Office",
+        "gen": 1
+      },
+      {
+        "name": "Geothermal Power",
+        "gen": 2
+      },
+      {
+        "name": "Hackers",
+        "gen": 2
+      },
+      {
+        "name": "Solar Wind Power",
+        "gen": 2
+      },
+      {
+        "name": "Callisto Penal Mines",
+        "gen": 3
+      },
+      {
+        "name": "Lagrange Observatory",
+        "gen": 4
+      },
+      {
+        "name": "Rad-Suits",
+        "gen": 4
+      },
+      {
+        "name": "Fuel Factory",
+        "gen": 4
+      },
+      {
+        "name": "Advanced Alloys",
+        "gen": 5
+      },
+      {
+        "name": "Ore Processor",
+        "gen": 5
+      },
+      {
+        "name": "Search For Life",
+        "gen": 6
+      },
+      {
+        "name": "Space Elevator",
+        "gen": 7
+      },
+      {
+        "name": "Soil Factory",
+        "gen": 7
+      },
+      {
+        "name": "Indentured Workers",
+        "gen": 8
+      },
+      {
+        "name": "Designed Microorganisms",
+        "gen": 8
+      },
+      {
+        "name": "Small Animals",
+        "gen": 9
+      },
+      {
+        "name": "Interstellar Colony Ship",
+        "gen": 9
+      },
+      {
+        "name": "Dust Seals",
+        "gen": 9
+      },
+      {
+        "name": "Technology Demonstration",
+        "gen": 9
+      },
+      {
+        "name": "Windmills",
+        "gen": 10
+      },
+      {
+        "name": "Ice Asteroid",
+        "gen": 10
+      },
+      {
+        "name": "Acquired Company",
+        "gen": 10
+      },
+      {
+        "name": "Release of Inert Gases",
+        "gen": 11
+      },
+      {
+        "name": "Tundra Farming",
+        "gen": 12
+      }
+    ],
+    "dealtLog": [
+      {
+        "gen": 5,
+        "dealt": [
+          "Advanced Alloys",
+          "Designed Microorganisms",
+          "Soil Factory"
+        ],
+        "kept": [
+          "Advanced Alloys",
+          "Designed Microorganisms",
+          "Soil Factory"
+        ]
+      }
+    ],
+    "actionsThisGen": {
+      "Ore Processor": {
+        "used": false
+      },
+      "Search For Life": {
+        "used": false,
+        "mcCost": 1
+      },
+      "Space Elevator": {
+        "used": false
+      },
+      "Small Animals": {
+        "used": false
+      }
+    },
+    "tiles": {
+      "cities": 1,
+      "greeneries": 3,
+      "special": 0
+    },
+    "milestones": [
+      "Builder"
+    ],
+    "nextCardDiscount": {
+      "gen": 8,
+      "amount": 8,
+      "source": "Indentured Workers"
+    },
+    "cardResources": {
+      "Small Animals": 4
+    }
+  },
+  "milestonesClaimed": {
+    "Gardener": "Mortimer",
+    "Builder": "Maxwell",
+    "Mayor": "Mortimer"
+  },
+  "awardsFunded": {
+    "Banker": "Maxwell",
+    "Scientist": "Maxwell",
+    "Miner": "Maxwell"
+  },
+  "opponents": {
+    "Mortimer": {
+      "corporation": "Ecoline",
+      "tr": 58,
+      "resources": {
+        "mc": 71,
+        "steel": 3,
+        "titanium": 0,
+        "plants": 3,
+        "energy": 0,
+        "heat": 7
+      },
+      "production": {
+        "mc": 2,
+        "steel": 0,
+        "titanium": 0,
+        "plants": 4,
+        "energy": 0,
+        "heat": 6
+      },
+      "estimated": false,
+      "lastObservedGen": 13,
+      "tagCounts": {
+        "building": 7,
+        "space": 5,
+        "event": 9,
+        "power": 2,
+        "city": 3,
+        "science": 2,
+        "earth": 3,
+        "animal": 1,
+        "plant": 3,
+        "microbe": 3
+      },
+      "tiles": {
+        "cities": 3,
+        "greeneries": 11,
+        "special": 3
+      },
+      "playedCards": [
+        {
+          "name": "Mohole Area",
+          "gen": 1
+        },
+        {
+          "name": "Towing A Comet",
+          "gen": 2
+        },
+        {
+          "name": "Energy Tapping",
+          "gen": 2
+        },
+        {
+          "name": "Noctis City",
+          "gen": 3
+        },
+        {
+          "name": "Research Outpost",
+          "gen": 4
+        },
+        {
+          "name": "Business Contacts",
+          "gen": 5
+        },
+        {
+          "name": "Ecological Zone",
+          "gen": 5
+        },
+        {
+          "name": "Imported Nitrogen",
+          "gen": 6
+        },
+        {
+          "name": "GHG Producing Bacteria",
+          "gen": 6
+        },
+        {
+          "name": "Deep Well Heating",
+          "gen": 7
+        },
+        {
+          "name": "Immigrant City",
+          "gen": 8
+        },
+        {
+          "name": "Protected Valley",
+          "gen": 8
+        },
+        {
+          "name": "Lava Flows",
+          "gen": 9
+        },
+        {
+          "name": "Insects",
+          "gen": 9
+        },
+        {
+          "name": "Extreme-Cold Fungus",
+          "gen": 10
+        },
+        {
+          "name": "Local Heat Trapping",
+          "gen": 10
+        },
+        {
+          "name": "Convoy From Europa",
+          "gen": 10
+        },
+        {
+          "name": "Noctis Farming",
+          "gen": 10
+        },
+        {
+          "name": "Comet",
+          "gen": 11
+        },
+        {
+          "name": "Investment Loan",
+          "gen": 11
+        },
+        {
+          "name": "Giant Ice Asteroid",
+          "gen": 12
+        }
+      ],
+      "provenance": {
+        "resources": "observed",
+        "asOfGen": 13
+      },
+      "cardResources": {
+        "Ecological Zone": 6,
+        "GHG Producing Bacteria": 1
+      }
+    }
+  },
+  "board": {
+    "53": {
+      "tile": "city",
+      "player": "Maxwell"
+    },
+    "32": {
+      "tile": "moholearea",
+      "player": "Mortimer"
+    },
+    "33": {
+      "tile": "ocean",
+      "player": "Mortimer"
+    },
+    "41": {
+      "tile": "greenery",
+      "player": "Mortimer"
+    },
+    "31": {
+      "tile": "city",
+      "player": "Mortimer"
+    },
+    "40": {
+      "tile": "greenery",
+      "player": "Mortimer"
+    },
+    "03": {
+      "tile": "city",
+      "player": "Mortimer"
+    },
+    "39": {
+      "tile": "greenery",
+      "player": "Mortimer"
+    },
+    "42": {
+      "tile": "ecologicalzone",
+      "player": "Mortimer"
+    },
+    "24": {
+      "tile": "greenery",
+      "player": "Mortimer"
+    },
+    "25": {
+      "tile": "city",
+      "player": "Mortimer"
+    },
+    "34": {
+      "tile": "greenery",
+      "player": "Mortimer"
+    },
+    "23": {
+      "tile": "greenery",
+      "player": "Mortimer"
+    },
+    "29": {
+      "tile": "lavaflows",
+      "player": "Mortimer"
+    },
+    "30": {
+      "tile": "greenery",
+      "player": "Mortimer"
+    },
+    "22": {
+      "tile": "greenery",
+      "player": "Mortimer"
+    },
+    "28": {
+      "tile": "ocean",
+      "player": "Maxwell"
+    },
+    "13": {
+      "tile": "ocean",
+      "player": "Maxwell"
+    },
+    "59": {
+      "tile": "greenery",
+      "player": "Maxwell"
+    },
+    "43": {
+      "tile": "ocean",
+      "player": null
+    },
+    "26": {
+      "tile": "greenery",
+      "player": "Mortimer"
+    },
+    "54": {
+      "tile": "greenery",
+      "player": "Maxwell"
+    },
+    "44": {
+      "tile": "ocean",
+      "player": "Mortimer"
+    },
+    "17": {
+      "tile": "greenery",
+      "player": "Mortimer"
+    },
+    "45": {
+      "tile": "ocean",
+      "player": "Mortimer"
+    },
+    "04": {
+      "tile": "ocean",
+      "player": "Mortimer"
+    },
+    "47": {
+      "tile": "greenery",
+      "player": "Maxwell"
+    },
+    "06": {
+      "tile": "ocean",
+      "player": "Mortimer"
+    },
+    "07": {
+      "tile": "ocean",
+      "player": "Mortimer"
+    },
+    "09": {
+      "tile": "greenery",
+      "player": "Mortimer"
+    }
+  },
+  "history": [
+    {
+      "generation": 1,
+      "temperature": -30,
+      "oxygen": 0,
+      "oceans": 0
+    },
+    {
+      "generation": 2,
+      "temperature": -30,
+      "oxygen": 2,
+      "oceans": 1
+    },
+    {
+      "generation": 3,
+      "temperature": -28,
+      "oxygen": 3,
+      "oceans": 1
+    },
+    {
+      "generation": 4,
+      "temperature": -28,
+      "oxygen": 3,
+      "oceans": 1
+    },
+    {
+      "generation": 5,
+      "temperature": -26,
+      "oxygen": 4,
+      "oceans": 1
+    },
+    {
+      "generation": 6,
+      "temperature": -26,
+      "oxygen": 5,
+      "oceans": 1
+    },
+    {
+      "generation": 7,
+      "temperature": -22,
+      "oxygen": 5,
+      "oceans": 1
+    },
+    {
+      "generation": 8,
+      "temperature": -22,
+      "oxygen": 7,
+      "oceans": 1
+    },
+    {
+      "generation": 9,
+      "temperature": -12,
+      "oxygen": 8,
+      "oceans": 1
+    },
+    {
+      "generation": 10,
+      "temperature": -10,
+      "oxygen": 11,
+      "oceans": 4
+    },
+    {
+      "generation": 11,
+      "temperature": -2,
+      "oxygen": 13,
+      "oceans": 6
+    },
+    {
+      "generation": 12,
+      "temperature": 8,
+      "oxygen": 14,
+      "oceans": 9
+    }
+  ]
+}

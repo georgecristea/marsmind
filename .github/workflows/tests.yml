@@ -1,0 +1,36 @@
+name: tests
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  unittest:
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        python-version: ["3.11", "3.12"]
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: ${{ matrix.python-version }}
+      # vendor/ (the upstream engine clone) is git-ignored; test_db_audit
+      # skips the upstream re-audit when it is absent.
+      - name: Run the test suite
+        run: python3 scripts/test.py
+      - name: Check Codex agent wrappers are in sync
+        run: |
+          if [ -f scripts/sync_codex_agents.py ]; then
+            python3 scripts/sync_codex_agents.py --check
+          else
+            echo "scripts/sync_codex_agents.py not present; skipping"
+          fi
+      - name: Repo doctor
+        run: |
+          if [ -f scripts/doctor.py ]; then
+            python3 scripts/doctor.py
+          else
+            echo "scripts/doctor.py not present; skipping"
+          fi
