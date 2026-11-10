@@ -1,4 +1,6 @@
-<h1 align="center">🪐 MarsMind</h1>
+<p align="center"><img src="docs/assets/marsmind-logo.svg" width="128" alt="MarsMind logo: Mars with greenery, ocean and city tiles"></p>
+
+<h1 align="center">MarsMind</h1>
 
 <p align="center"><b>An AI advisor that sits at your Terraforming Mars table and plays to win.</b></p>
 

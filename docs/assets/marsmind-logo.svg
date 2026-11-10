@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128" role="img" aria-label="MarsMind: Mars with terraforming tiles">
+  <defs>
+    <radialGradient id="mars" cx="36%" cy="30%" r="78%">
+      <stop offset="0%" stop-color="#f6a46b"/>
+      <stop offset="42%" stop-color="#d2552f"/>
+      <stop offset="100%" stop-color="#6e1f12"/>
+    </radialGradient>
+    <radialGradient id="shade" cx="30%" cy="25%" r="85%">
+      <stop offset="60%" stop-color="#000" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#000" stop-opacity=".35"/>
+    </radialGradient>
+    <clipPath id="disc"><circle cx="64" cy="64" r="56"/></clipPath>
+  </defs>
+  <circle cx="64" cy="64" r="56" fill="url(#mars)"/>
+  <g clip-path="url(#disc)">
+    <path d="M6 76 C 34 64, 62 82, 122 66" stroke="#8a2c1b" stroke-width="6" fill="none" opacity=".5" stroke-linecap="round"/>
+    <ellipse cx="40" cy="96" rx="20" ry="9" fill="#8a2c1b" opacity=".4"/>
+    <ellipse cx="34" cy="46" rx="11" ry="7" fill="#8a2c1b" opacity=".3"/>
+    <circle cx="48" cy="30" r="5" fill="none" stroke="#7a2418" stroke-width="1.6" opacity=".45"/>
+    <circle cx="96" cy="94" r="4" fill="none" stroke="#7a2418" stroke-width="1.6" opacity=".45"/>
+    <circle cx="28" cy="70" r="3" fill="none" stroke="#7a2418" stroke-width="1.4" opacity=".45"/>
+    <ellipse cx="64" cy="9" rx="26" ry="9" fill="#fff7ee" opacity=".92"/>
+    <g stroke="#fff" stroke-opacity=".75" stroke-width="1.2" stroke-linejoin="round">
+      <polygon points="64.00,46.80 71.97,51.40 71.97,60.60 64.00,65.20 56.03,60.60 56.03,51.40" fill="#43a047"/>
+      <polygon points="81.32,46.80 89.29,51.40 89.29,60.60 81.32,65.20 73.35,60.60 73.35,51.40" fill="#2f7fd1"/>
+      <polygon points="72.66,61.80 80.63,66.40 80.63,75.60 72.66,80.20 64.69,75.60 64.69,66.40" fill="#43a047"/>
+      <polygon points="55.34,61.80 63.31,66.40 63.31,75.60 55.34,80.20 47.37,75.60 47.37,66.40" fill="#9aa4ae"/>
+    </g>
+    <circle cx="64" cy="64" r="56" fill="url(#shade)"/>
+  </g>
+</svg>
